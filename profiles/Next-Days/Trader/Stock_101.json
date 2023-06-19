@@ -1,0 +1,15 @@
+{
+    "RequiredCharacterTraits": 0,
+    "EnabledInteractions": 32,
+    "CurrencyID": 1,
+    "Cash": 3100000,
+    "CashAddingPerRestock": 100000,
+    "CashMinimal": 1000000,
+    "CashOptimal": 5000000,
+    "CashAffectsPrices": 0.25,
+    "PricelistRatioHero": 1.0,
+    "PricelistRatioBandit": 1.0,
+    "CentralStock": 0,
+    "NoReputationRequirementsWhileBuying": 0,
+    "Stock": {}
+}

@@ -1,0 +1,15 @@
+2023-06-18 @ 16-58-59:  [AirdropPlane] Aircraft created on 2023-06-18 @ 16-58-59
+2023-06-18 @ 16-58-59:  [InitializeAircraft] Aircraft Initialized: Northwest Airfield @ 4807/9812 (true)
+2023-06-18 @ 16-59-10:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_SoldierNormal @ <4790.981934, 342.988556, 9809.732422> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 16-59-21:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_Flat @ <4807.597168, 342.825745, 9806.724609> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 16-59-32:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_PatrolNormal_Flat @ <4825.250000, 342.074677, 9833.297852> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 16-59-43:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_PatrolNormal_Summer @ <4784.968750, 342.481842, 9786.553711> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 16-59-55:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_PatrolNormal_Summer @ <4798.868164, 342.541718, 9833.681641> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 17-00-06:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatrolNormal_Summer @ <4816.233398, 342.895081, 9791.252930> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 17-00-17:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_SoldierNormal @ <4829.397949, 343.152496, 9804.581055> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 17-00-28:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_SoldierNormal @ <4790.740723, 341.888824, 9774.178711> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 17-00-31:  [EOnBeforeDrop] The Aircraft is 1 Km from Northwest Airfield, from the North/West (317°). @ <3792.222412, 471.452362, 10914.667969>
+2023-06-18 @ 17-00-39:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_PatrolNormal_Flat @ <4787.475098, 342.467621, 9785.919922> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 17-00-49:  [EOnDrop] Drop spawned with 10 infected at <4753.320801, 481.699799, 9872.460938>.
+2023-06-18 @ 17-00-49:  [EOnDrop] Supplies have been dropped near Northwest Airfield.
+2023-06-18 @ 17-03-57:  [~AirdropPlane] Aircraft destroyed.

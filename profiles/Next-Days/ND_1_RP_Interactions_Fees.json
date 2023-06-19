@@ -1,0 +1,33 @@
+{
+    "EnableSales": 1,
+    "MedicalFees": {
+        "EnabledBloodTest": 1,
+        "EnabledCloneDNA": 1,
+        "Fee": 500,
+        "Bleeding": 500,
+        "BrainSick": 25000,
+        "Commoncold": 5000,
+        "Influenza": 10000,
+        "Cholera": 15000,
+        "Salmonella": 10000,
+        "WoundInfectionL1": 5000,
+        "WoundInfectionL2": 10000,
+        "FoodPoisoning": 5000,
+        "ChemicalPoisoningL1": 5000,
+        "ChemicalPoisoningL2": 10000,
+        "ChemicalPoisoningL3": 15000,
+        "BrokenArm": 10000,
+        "BrokenLeg": 10000,
+        "RadiationSick": 100000,
+        "FrostbiteSick": 100000,
+        "Decontamination": 2000,
+        "SaveDNA": 1000,
+        "RecoverDNA": 50000
+    },
+    "Rumours": {
+        "NegativeGossipCost": 10000,
+        "PositiveGossipCost": 10000,
+        "NegativeGossipGain": 1000,
+        "PositiveGossipGain": 1000
+    }
+}

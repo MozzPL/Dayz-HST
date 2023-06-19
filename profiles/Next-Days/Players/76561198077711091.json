@@ -1,0 +1,30 @@
+{
+    "Name": "Miki_sz",
+    "GUID": "76561198077711091",
+    "PlayerID": 6,
+    "Event": 0,
+    "PerkStaminaEXP": 84.5,
+    "PerkSoftEXP": -0.0203445702791214,
+    "PerkRoughEXP": 0.0,
+    "PerkResistanceColdEXP": 0.003506859065964818,
+    "PerkReputationEXP": 3250.0,
+    "PerkHuntingEXP": 0.0,
+    "PerkRadiationResistanceEXP": 0.0,
+    "PerkToxicResistanceEXP": 0.0,
+    "BestScore": 6500.0,
+    "SavedDNA": {
+        "StaminaEXP": 0.0,
+        "SpecialtySoftEXP": 0.0,
+        "SpecialtyRoughEXP": 0.0,
+        "ResistanceEXP": 0.0,
+        "ResistanceToxicEXP": 0.0,
+        "ResistanceColdEXP": 0.0,
+        "ReputationEXP": 0.0,
+        "HuntingEXP": 0.0
+    },
+    "ClanID": 5,
+    "Base_Owner": 0,
+    "Base_House": "",
+    "Base_Bed": 0,
+    "IsNewborn": 1
+}

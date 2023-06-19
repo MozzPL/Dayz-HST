@@ -1,0 +1,57 @@
+{
+    "RegenerationBlood": 0.30000001192092898,
+    "RegenerationHealth": 0.30000001192092898,
+    "FatigueBasal": 0.0024999999441206457,
+    "FatigueWalk": 0.004999999888241291,
+    "FatigueJog": 0.00800000037997961,
+    "FatigueSprint": 0.01600000075995922,
+    "FatigueRadiationMultiplier": 1.2000000476837159,
+    "FatigueRadiationSickMultiplier": 2.0,
+    "FatigueSickMultiplier": 1.5,
+    "FatigueHeatMultiplier": 2.0,
+    "Resting": 2.0,
+    "RestingPenaltyHeat": 0.5,
+    "RestingPenaltyShelter": 0.5,
+    "ClosedEyesWhileSleeping": 1,
+    "EpinephrineEnergyBoost": 10.0,
+    "SleepingBag": [],
+    "FoodBonuses": [
+        {
+            "Item": "SodaCan_Cola",
+            "Energy": 0.019999999552965165,
+            "Alcohol": 0.0,
+            "Radiation": 0.0,
+            "Toxicity": 0.0
+        },
+        {
+            "Item": "SodaCan_Pipsi",
+            "Energy": 0.019999999552965165,
+            "Alcohol": 0.0,
+            "Radiation": 0.0,
+            "Toxicity": 0.0
+        },
+        {
+            "Item": "SodaCan_Kvass",
+            "Energy": -0.009999999776482582,
+            "Alcohol": 0.10000000149011612,
+            "Radiation": -0.10000000149011612,
+            "Toxicity": 0.0
+        }
+    ],
+    "LiquidBonuses": [
+        {
+            "LiquidID": 2048,
+            "Energy": -0.05000000074505806,
+            "Alcohol": 0.6000000238418579,
+            "Radiation": -0.6000000238418579,
+            "Toxicity": -0.20000000298023225
+        },
+        {
+            "LiquidID": 4096,
+            "Energy": -0.009999999776482582,
+            "Alcohol": 0.10000000149011612,
+            "Radiation": -0.10000000149011612,
+            "Toxicity": 0.0
+        }
+    ]
+}

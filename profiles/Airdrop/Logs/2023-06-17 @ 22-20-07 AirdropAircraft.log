@@ -1,0 +1,15 @@
+2023-06-17 @ 22-20-07:  [AirdropPlane] Aircraft created on 2023-06-17 @ 22-20-07
+2023-06-17 @ 22-20-07:  [InitializeAircraft] Aircraft Initialized: Player Called @ 12458.3/9467.69 (false)
+2023-06-17 @ 22-20-18:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_PatrolNormal_Summer @ <12466.937500, 8.136847, 9419.584961> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-20-29:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_HandymanNormal_Beige @ <12463.494141, 8.360001, 9453.166992> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-20-40:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_HikerSkinny_Yellow @ <12428.135742, 8.334221, 9476.975586> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-20-51:  [EOnSpawnZombies] Zombie Spawned [4] Animal_CanisLupus_White @ <12434.416016, 8.682215, 9510.406250> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-21-01:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_SoldierNormal @ <12470.825195, 8.362232, 9437.593750> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-21-12:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatrolNormal_PautRev @ <12457.662109, 8.364225, 9460.667969> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-21-23:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_VillagerOld_Blue @ <12473.739258, 8.281906, 9466.943359> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-21-34:  [EOnSpawnZombies] Zombie Spawned [8] Animal_CanisLupus_Grey @ <12428.521484, 8.731154, 9452.529297> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-21-36:  [EOnBeforeDrop] The Aircraft is 1 Km from called location, from the North/West (326°). @ <11615.549805, 338.866882, 10706.694336>
+2023-06-17 @ 22-21-45:  [EOnSpawnZombies] Spawn failed for zombie [9] 'ZmbM_SurvivorDean_Grey', does not exist in DayZ!
+2023-06-17 @ 22-21-55:  [EOnDrop] Drop spawned with 10 infected at <12419.143555, 153.422546, 9526.596680>.
+2023-06-17 @ 22-21-55:  [EOnDrop] Supplies have been dropped near the player's location.
+2023-06-17 @ 22-23-10:  [~AirdropPlane] Aircraft destroyed.

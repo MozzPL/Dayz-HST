@@ -1,0 +1,13 @@
+{
+    "IDE": 680974508,
+    "Location": "Zaprudnoe",
+    "Position": [
+        4904.2158203125,
+        173.09327697753907,
+        13050.697265625
+    ],
+    "Ammount": 30000.0,
+    "AmmountMax": 30000.0,
+    "RefreshPerRestart": 5000.0,
+    "ChanceRefresh": 0.5
+}

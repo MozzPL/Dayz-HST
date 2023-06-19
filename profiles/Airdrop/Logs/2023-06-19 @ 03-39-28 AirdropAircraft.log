@@ -1,0 +1,15 @@
+2023-06-19 @ 03-39-28:  [AirdropPlane] Aircraft created on 2023-06-19 @ 03-39-28
+2023-06-19 @ 03-39-28:  [InitializeAircraft] Aircraft Initialized: Berezino @ 11464/8908 (true)
+2023-06-19 @ 03-39-38:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_PatrolNormal_Autumn @ <11466.545898, 117.869789, 8898.125000> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-39-48:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_PoliceWomanNormal @ <11432.248047, 118.847801, 8897.494141> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-39-57:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_DoctorSkinny @ <11442.504883, 118.411385, 8895.722656> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-40-07:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_Clerk_Normal_Blue @ <11470.880859, 113.781311, 8919.724609> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-40-17:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_PrisonerSkinny @ <11441.049805, 112.494705, 8933.425781> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-40-27:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatrolNormal_Flat @ <11480.700195, 113.416565, 8918.259766> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-40-37:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_SkaterYoung_Green @ <11484.625977, 119.352287, 8872.652344> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-40-46:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_ParamedicNormal_Black @ <11455.975586, 116.926956, 8905.195313> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-40-46:  [EOnBeforeDrop] The Aircraft is 1 Km from Berezino, from the North (351°). @ <11221.949219, 287.351257, 10387.380859>
+2023-06-19 @ 03-40-56:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_JoggerSkinny_Green @ <11448.794922, 114.146301, 8920.876953> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 03-41-05:  [EOnDrop] Drop spawned with 10 infected at <11453.199219, 238.749130, 8978.923828>.
+2023-06-19 @ 03-41-05:  [EOnDrop] Supplies have been dropped near Berezino.
+2023-06-19 @ 03-43-04:  [~AirdropPlane] Aircraft destroyed.

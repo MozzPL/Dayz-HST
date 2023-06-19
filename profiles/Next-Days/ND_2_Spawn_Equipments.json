@@ -1,0 +1,90 @@
+{
+    "NewbornSpawn": {
+        "Water": 2000.0,
+        "Energy": 20000.0,
+        "Messages": [
+            "Welcome to our server",
+            "And since it's you I am giving you extra stuff to help you survive",
+            "Good luck!"
+        ],
+        "lootMaxCount": 0,
+        "Equipments": [
+            {
+                "title": "Pistols_1",
+                "chance": 1.0
+            },
+            {
+                "title": "CIVIL_TOP",
+                "chance": 1.0
+            },
+            {
+                "title": "CIVIL_PANTS",
+                "chance": 1.0
+            },
+            {
+                "title": "CIVIL_BOOTS",
+                "chance": 1.0
+            }
+        ]
+    },
+    "PlayerSpawn": [
+        {
+            "RequiredcharacterRole": 0,
+            "RequiredReputationLevel": 0,
+            "Water": 0.0,
+            "Energy": 0.0,
+            "Messages": [
+                "Augh! This time you get it better",
+                "Good luck!"
+            ],
+            "lootMaxCount": 0,
+            "Equipments": [
+                {
+                    "title": "Pistols_1",
+                    "chance": 1.0
+                },
+                {
+                    "title": "CIVIL_TOP",
+                    "chance": 1.0
+                },
+                {
+                    "title": "CIVIL_PANTS",
+                    "chance": 1.0
+                },
+                {
+                    "title": "CIVIL_BOOTS",
+                    "chance": 1.0
+                }
+            ]
+        },
+        {
+            "RequiredcharacterRole": 0,
+            "RequiredReputationLevel": 5,
+            "Water": 0.0,
+            "Energy": 0.0,
+            "Messages": [
+                "Augh! This time you get it better",
+                "Good luck!"
+            ],
+            "lootMaxCount": 0,
+            "Equipments": [
+                {
+                    "title": "AssaultRifles_1",
+                    "chance": 1.0
+                },
+                {
+                    "title": "SOLDIER_TOP",
+                    "chance": 1.0
+                },
+                {
+                    "title": "SOLDIER_PANTS",
+                    "chance": 1.0
+                },
+                {
+                    "title": "SOLDIER_BOOTS",
+                    "chance": 1.0
+                }
+            ]
+        }
+    ]
+}

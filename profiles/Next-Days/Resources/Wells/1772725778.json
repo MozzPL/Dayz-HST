@@ -1,0 +1,13 @@
+{
+    "IDE": 1772725778,
+    "Location": "Karmanovka",
+    "Position": [
+        12719.9267578125,
+        89.61051177978516,
+        14577.7333984375
+    ],
+    "Ammount": 15000.0,
+    "AmmountMax": 30000.0,
+    "RefreshPerRestart": 5000.0,
+    "ChanceRefresh": 0.5
+}

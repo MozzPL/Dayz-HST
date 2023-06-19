@@ -1,0 +1,13 @@
+{
+    "IDE": 1965637335,
+    "Location": "Belaya Polana",
+    "Position": [
+        14074.5673828125,
+        138.92906188964845,
+        15031.740234375
+    ],
+    "Ammount": 30000.0,
+    "AmmountMax": 30000.0,
+    "RefreshPerRestart": 5000.0,
+    "ChanceRefresh": 0.5
+}

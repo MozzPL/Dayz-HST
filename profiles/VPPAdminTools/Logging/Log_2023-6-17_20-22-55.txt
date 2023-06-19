@@ -1,0 +1,267 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-6-17_20-22-55
+====================================================================================
+20:22:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:22:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:22:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:22:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:22:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:22:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:22:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:22:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:22:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:22:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:22:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:22:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:22:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:22:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:22:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:22:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:22:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:22:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:22:55 | [PermissionManager] Adding Super Admin (76561198005481418)
+20:22:55 | [PermissionManager] Loaded UserGroups.json
+20:22:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:22:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:22:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:22:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:22:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:22:55 | Building Sets Loaded: 0
+20:22:55 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+20:22:55 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:29:54 | Player "Mozz" (steamId=76561198005481418) connected to server!
+20:30:22 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<3744.010010, 362.949951, 14789.299805>)
+20:30:22 | "Mozz": (steamid=76561198005481418) teleported to (pos=3744.01,0,14789.3)
+20:30:43 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<8526.459961, 202.590576, 13966.099609>)
+20:30:43 | "Mozz": (steamid=76561198005481418) teleported to (pos=8526.46,0,13966.1)
+20:31:25 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<11591.400391, 57.910000, 14705.299805>)
+20:31:25 | "Mozz": (steamid=76561198005481418) teleported to (pos=11591.4,0,14705.3)
+20:49:53 | "Mozz" (steamid=76561198005481418) Spawned Item: (TraderPlus_Money_Ruble1000)
+20:49:53 | "Mozz" (steamid=76561198005481418) Spawned Item: (TraderPlus_Money_Ruble1000)
+20:49:54 | "Mozz" (steamid=76561198005481418) Spawned Item: (TraderPlus_Money_Ruble1000)
+20:58:57 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:58:57 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:58:58 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:2 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:2 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:4 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:7 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:7 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:8 | "Mozz" (steamid=76561198005481418) toggled freecam
+20:59:9 | "Mozz" (steamid=76561198005481418) toggled freecam
+21:4:13 | "Mozz" (steamid=76561198005481418) Spawned Item: (alp_CarKeyPurple)
+21:17:40 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<6030.899902, 300.656647, 7841.339844>)
+21:17:40 | "Mozz": (steamid=76561198005481418) teleported to (pos=6030.9,0,7841.34)
+21:28:53 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<3442.209961, 193.396240, 12988.500000>)
+21:28:53 | "Mozz": (steamid=76561198005481418) teleported to (pos=3442.21,0,12988.5)
+21:29:3 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<3271.379883, 201.024185, 12980.599609>)
+21:29:3 | "Mozz": (steamid=76561198005481418) teleported to (pos=3271.38,0,12980.6)
+21:29:24 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<3283.909912, 201.308319, 12781.599609>)
+21:29:24 | "Mozz": (steamid=76561198005481418) teleported to (pos=3283.91,0,12781.6)
+21:29:35 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<3095.830078, 208.195221, 12670.299805>)
+21:29:35 | "Mozz": (steamid=76561198005481418) teleported to (pos=3095.83,0,12670.3)
+21:37:12 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<7997.990234, 339.252625, 14643.299805>)
+21:37:12 | "Mozz": (steamid=76561198005481418) teleported to (pos=7997.99,0,14643.3)
+21:42:46 | Player "Survivor" (steamId=76561198030410516) connected to server!
+21:46:52 | [PermissionManager] Removed (steamid=26561198420222028) from Group: (Admins) by: "Mozz" (steamid=76561198005481418)
+21:49:26 | [PermissionManager] Added "Survivor" (steamid=76561198030410516) to user group (Admins) by: "Mozz" (steamid=76561198005481418)
+21:50:24 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+21:50:25 | Player "Survivor" (steamId=76561198030410516) disconnected early from server (EXIT NOW).
+21:53:17 | Player "Survivor" (steamId=76561198030410516) connected to server!
+21:56:10 | "Mozz" (steamid=76561198005481418) sent message (Cycki69) to: (steamid=76561198030410516)
+21:57:5 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+21:57:10 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+21:57:11 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+22:4:55 | "Survivor" (steamid=76561198030410516) Spawned Item: (Animal_CanisLupus_White)
+22:4:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (Animal_CanisLupus_White)
+22:5:37 | "Mozz": (steamid=76561198005481418) teleported to (pos=position nam2e)
+22:5:38 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+22:6:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight) on "Survivor" (steamid=76561198030410516)
+22:6:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight)
+22:6:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight) on "Survivor" (steamid=76561198030410516)
+22:6:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight)
+22:6:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight) on "Survivor" (steamid=76561198030410516)
+22:6:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight)
+22:6:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight) on "Survivor" (steamid=76561198030410516)
+22:6:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (NetworkPointLight)
+22:6:17 | "Survivor" (steamid=76561198030410516) Spawned Item: (Land_Container_1Aoh_DE) on "Survivor" (steamid=76561198030410516)
+22:6:17 | "Survivor" (steamid=76561198030410516) Spawned Item: (Land_Container_1Aoh_DE)
+22:6:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest) on "Survivor" (steamid=76561198030410516)
+22:6:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest)
+22:6:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest) on "Survivor" (steamid=76561198030410516)
+22:6:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest)
+22:6:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest) on "Survivor" (steamid=76561198030410516)
+22:6:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest)
+22:6:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest) on "Survivor" (steamid=76561198030410516)
+22:6:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (ExplosionTest)
+22:6:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SpookyArea) on "Survivor" (steamid=76561198030410516)
+22:6:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SpookyArea)
+22:6:50 | "Survivor" (steamid=76561198030410516) Spawned Item: (NBCGlovesGray) on "Survivor" (steamid=76561198030410516)
+22:6:50 | "Survivor" (steamid=76561198030410516) Spawned Item: (NBCGlovesGray)
+22:6:58 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<1574.170044, 243.301514, 10656.900391>)
+22:6:58 | "Mozz": (steamid=76561198005481418) teleported to (pos=1574.17,0,10656.9)
+22:8:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (ZmbM_NBC_Yellow) on "Survivor" (steamid=76561198030410516)
+22:8:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (ZmbM_NBC_Yellow)
+22:8:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_ZedArmy_M2) on "Survivor" (steamid=76561198030410516)
+22:8:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_ZedArmy_M2)
+22:9:47 | [WeatherManager] Send Data Count is 0
+22:9:52 | [WeatherManager] Send Data Count is 0
+22:12:53 | [WeatherManager] Send Data Count is 0
+22:13:30 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:13:30 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:13:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:13:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:13:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:13:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:22:40 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+22:23:7 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+22:23:10 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd) on "Survivor" (steamid=76561198030410516)
+22:23:10 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+22:23:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd) on "Survivor" (steamid=76561198030410516)
+22:23:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+22:23:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd) on "Survivor" (steamid=76561198030410516)
+22:23:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+22:23:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd) on "Survivor" (steamid=76561198030410516)
+22:23:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+22:24:56 | "Mozz" (steamid=76561198005481418) toggled freecam
+22:24:57 | "Mozz" (steamid=76561198005481418) toggled godmode
+22:24:58 | "Mozz" (steamid=76561198005481418) toggled godmode
+22:24:59 | "Mozz" (steamid=76561198005481418) toggled freecam
+22:26:11 | "Mozz" (steamid=76561198005481418) toggled freecam
+22:26:22 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<4620.509766, 9.817124, 2493.370117>)
+22:26:22 | "Survivor": (steamid=76561198030410516) teleported to (pos=4620.51,0,2493.37)
+22:26:22 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<4620.509766, 9.817124, 2493.370117>)
+22:26:22 | "Survivor": (steamid=76561198030410516) teleported to (pos=4620.51,0,2493.37)
+22:26:56 | "Mozz" (steamid=76561198005481418) toggled freecam
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare) on "Survivor" (steamid=76561198030410516)
+22:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+22:28:6 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+22:28:10 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+22:28:12 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+22:28:12 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+22:28:14 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+22:30:15 | "Mozz" (steamid=76561198005481418) gave unlimited ammo to (steamid=76561198005481418)
+22:30:23 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+22:30:24 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+22:30:24 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+22:30:53 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+22:32:40 | "Survivor" (steamid=76561198030410516) Spawned Item: (MSFC_MSBS) on "Survivor" (steamid=76561198030410516)
+22:32:40 | "Survivor" (steamid=76561198030410516) Spawned Item: (MSFC_MSBS)
+22:32:46 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+22:33:14 | "Mozz" (steamid=76561198005481418) Spawned Item: (WeaponCleaningKit)
+22:33:48 | "Mozz" (steamid=76561198005481418) Spawned Item: (WeaponCleaningKit)
+22:35:11 | "76561198005481418" (steamid=76561198030410516) teleported to (pos=<3046.179932, 98.360695, 2962.070068>)
+22:35:11 | "Survivor" (steamid=76561198030410516) Teleporting player: "Mozz" (steamid=76561198005481418) to (pos=<3046.178223, 0.000000, 2962.072510>)
+22:35:20 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<3087.100098, 90.384590, 2970.889893>)
+22:35:20 | "Survivor": (steamid=76561198030410516) teleported to (pos=3087.1,0,2970.89)
+22:35:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (PersonalRadio) on "Mozz" (steamid=76561198005481418)
+22:35:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (PersonalRadio)
+22:36:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V) on "Mozz" (steamid=76561198005481418)
+22:36:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V)
+22:36:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V) on "Survivor" (steamid=76561198030410516)
+22:36:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V)
+22:36:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V) on "Survivor" (steamid=76561198030410516)
+22:36:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V)
+22:36:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V) on "Survivor" (steamid=76561198030410516)
+22:36:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V)
+22:36:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V) on "Survivor" (steamid=76561198030410516)
+22:36:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V)
+22:36:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (PersonalRadio) on "Survivor" (steamid=76561198030410516)
+22:36:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (PersonalRadio)
+22:36:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (PersonalRadio) on "Survivor" (steamid=76561198030410516)
+22:36:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (PersonalRadio)
+22:36:44 | Player "Mozz" (steamId=76561198005481418) initiated disconnect process...
+22:36:59 | Player "Mozz" (steamId=76561198005481418) disconnected from server.
+22:40:34 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<6059.399902, 300.760010, 7835.220215>)
+22:40:34 | "Survivor": (steamid=76561198030410516) teleported to (pos=6059.4,0,7835.22)
+22:43:29 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<2873.409912, 200.518829, 5053.540039>)
+22:43:29 | "Survivor": (steamid=76561198030410516) teleported to (pos=2873.41,0,5053.54)
+22:44:31 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<2207.600098, 183.346558, 5087.229980>)
+22:44:31 | "Survivor": (steamid=76561198030410516) teleported to (pos=2207.6,0,5087.23)
+22:45:14 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+22:48:10 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+22:48:12 | Player "Survivor" (steamId=76561198030410516) disconnected early from server (EXIT NOW).

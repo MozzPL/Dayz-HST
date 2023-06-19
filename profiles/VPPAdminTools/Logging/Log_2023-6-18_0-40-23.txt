@@ -1,0 +1,928 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-6-18_0-40-23
+====================================================================================
+0:40:23 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:40:23 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:40:23 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:40:23 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:40:23 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:40:23 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:40:23 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:40:23 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:40:23 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:40:23 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:40:23 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:40:23 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:40:23 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:40:23 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:40:23 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:40:23 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:40:23 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:40:23 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:40:23 | [PermissionManager] Adding Super Admin (76561198005481418)
+0:40:23 | [PermissionManager] Loaded UserGroups.json
+0:40:23 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:40:23 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:40:23 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:40:23 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:40:23 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:40:23 | Building Sets Loaded: 0
+0:40:23 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+0:40:23 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:44:17 | Player "Survivor" (steamId=76561198030410516) connected to server!
+0:45:11 | [WeatherManager] Send Data Count is 0
+0:45:17 | [Time Manager] Setting Date to 2023/9/20 5:6
+0:46:5 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<2720.830078, 349.764221, 6915.930176>)
+0:46:5 | "Survivor": (steamid=76561198030410516) teleported to (pos=2720.83,0,6915.93)
+0:48:28 | "Survivor": (steamid=76561198030410516) teleported to (pos=1)
+0:49:2 | "Survivor": (steamid=76561198030410516) teleported to (pos=1)
+0:49:28 | "Survivor" (steamid=76561198030410516) toggled freecam
+0:49:43 | "Survivor" (steamid=76561198030410516) toggled freecam
+0:51:30 | "Survivor": (steamid=76561198030410516) teleported to (pos=1)
+0:55:53 | [WeatherManager] Send Data Count is 0
+0:57:17 | "Survivor": (steamid=76561198030410516) teleported to (pos=2)
+0:57:49 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+0:57:49 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+0:59:45 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_original)
+0:59:52 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_original)
+1:0:48 | "Survivor" (steamid=76561198030410516) toggled godmode
+1:0:49 | "Survivor" (steamid=76561198030410516) toggled godmode
+1:0:59 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Free)
+1:1:4 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SlepoDOG_Brown)
+1:1:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PseDOG_Brown)
+1:1:9 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Plot_style1)
+1:1:13 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Plot_style2)
+1:1:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered)
+1:1:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+1:2:18 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Wild_Hourse)
+1:2:23 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_RatDog)
+1:2:25 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork)
+1:2:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork2)
+1:2:50 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CatBaun)
+1:2:57 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_green)
+1:3:0 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_original)
+1:3:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_ondinocka)
+1:3:44 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Piyavka)
+1:4:1 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+1:4:4 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_ZedArmy_M1)
+1:4:25 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_Krovosos_Dark)
+1:4:58 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_ZedArmy_M2)
+1:5:1 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_Krovosos_Boloto)
+1:5:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos_Dark)
+1:5:17 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Plot_style2)
+1:5:25 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Monolit)
+1:5:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Naem)
+1:7:14 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_NCP_Barmen)
+1:8:25 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+1:9:39 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Jarka_Active)
+1:9:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Jarka_Idle)
+1:10:5 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Myasorubka_Idle)
+1:10:8 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Myasorubka_Idle)
+1:10:9 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Myasorubka_Active)
+1:10:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Voronka_Idle)
+1:10:18 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Voronka_Active)
+1:10:18 | "Survivor" (steamid=76561198030410516) Spawned Item: (Anomaly_Voronka_Active)
+1:10:28 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_BalalaikaMYZ)
+1:11:23 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+1:11:23 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+1:11:23 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+1:11:23 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+1:13:25 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FemaleDance_NPC)
+1:14:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_DeadBodySkined_Leza)
+1:15:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_StalkerGitaraP_NPC)
+1:16:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/STALKER.vpp
+1:16:25 | "Survivor" (steamid=76561198030410516) created new building set (STALKER)
+1:22:22 | "Survivor" (steamid=76561198030410516) deleted building set (STALKER)
+1:22:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Crow_sound)
+1:22:42 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Crow)
+1:22:44 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Crow)
+1:23:0 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_DeadBodyRazbrosCrow)
+1:23:10 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_NCP_Barmen_voice)
+1:23:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_NCP_Barmen)
+1:25:29 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+1:25:32 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+1:26:48 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+1:26:59 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+1:27:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_BALLERINA_AH_RIGHT)
+1:27:57 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Military_NPC_pose1)
+1:28:50 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+1:29:36 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_NCP_Sidor_Voice)
+1:29:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Neitral)
+1:30:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_AntiRad_Vorota)
+1:30:10 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_AntiRad_Kvarc)
+1:30:42 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Artefact_Monolit)
+1:31:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CombezPantsST_Neitral)
+1:31:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Stalker_Plash_Beige)
+1:32:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Molotov)
+1:32:27 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+1:32:29 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+1:32:44 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_black)
+1:32:54 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ratdog_Otrezano_Head)
+1:33:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (HuntingKnife)
+1:38:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombie)
+1:39:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PortableGasStove_Druzba)
+1:39:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+1:39:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+1:40:4 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SIGARETA_SMOKE)
+1:40:5 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SIGARETA_SMOKE)
+1:40:29 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+1:41:19 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_VAPE_Red_SMOKE)
+1:41:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_LapTop_work)
+1:42:28 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+1:42:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_GubGarmonMYZ)
+1:43:18 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_GitaraMYZ)
+1:43:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FON)
+1:44:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_RusIRP_Meat_open)
+1:44:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_DETECTOR_VELES)
+1:44:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_DETECTOR_Medved)
+1:44:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Tactical_PDA)
+1:45:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Collection_Lor_Jural_7)
+1:46:4 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Vodka_Kazak025)
+1:46:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Novice_bagpack)
+1:46:53 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_GP7GasMask)
+1:47:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ExoClassic_Pants_Neitral)
+1:48:42 | "Survivor" (steamid=76561198030410516) Spawned Item: (validol_Mich2001_loner01)
+1:49:23 | "Survivor" (steamid=76561198030410516) Spawned Item: (validol_HunterPants_loner02)
+1:49:53 | "Survivor" (steamid=76561198030410516) Spawned Item: (ZmbM_Jacket_black)
+1:50:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Brodaga_Jacket)
+2:11:14 | "Survivor": (steamid=76561198030410516) teleported to (pos=1)
+2:12:12 | "Survivor": (steamid=76561198030410516) teleported to (pos=2)
+2:15:43 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:16:19 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:21:8 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:21:19 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:22:10 | "Survivor" (steamid=76561198030410516) gave unlimited ammo to (steamid=76561198030410516)
+2:22:29 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+2:22:39 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+2:22:43 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+2:22:50 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+2:22:50 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+2:24:25 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:26:11 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:26:28 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<149.160004, 23.447733, 1718.560059>)
+2:26:28 | "Survivor": (steamid=76561198030410516) teleported to (pos=149.16,0,1718.56)
+2:26:39 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<15220.599609, 218.123062, 15267.099609>)
+2:26:39 | "Survivor": (steamid=76561198030410516) teleported to (pos=15220.6,0,15267.1)
+2:27:7 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<31.282801, 442.298889, 15348.700195>)
+2:27:7 | "Survivor": (steamid=76561198030410516) teleported to (pos=31.2828,0,15348.7)
+2:27:7 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<31.284000, 442.298889, 15348.700195>)
+2:27:7 | "Survivor": (steamid=76561198030410516) teleported to (pos=31.284,0,15348.7)
+2:27:12 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:27:13 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:27:33 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<15329.400391, 212.166595, 15330.500000>)
+2:27:33 | "Survivor": (steamid=76561198030410516) teleported to (pos=15329.4,0,15330.5)
+2:28:43 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<7515.209961, 5.357471, 2739.360107>)
+2:28:43 | "Survivor": (steamid=76561198030410516) teleported to (pos=7515.21,0,2739.36)
+2:28:49 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:28:51 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:28:55 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:29:55 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:30:3 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<7182.709961, 31.629999, 3040.290039>)
+2:30:3 | "Survivor": (steamid=76561198030410516) teleported to (pos=7182.71,0,3040.29)
+2:32:9 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<6793.060059, 16.591333, 2893.500000>)
+2:32:9 | "Survivor": (steamid=76561198030410516) teleported to (pos=6793.06,0,2893.5)
+2:32:12 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:32:16 | "Survivor" (steamid=76561198030410516) toggled freecam
+2:33:15 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<6570.060059, 233.492340, 4672.419922>)
+2:33:15 | "Survivor": (steamid=76561198030410516) teleported to (pos=6570.06,0,4672.42)
+2:34:23 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<5067.209961, 9.338882, 2382.179932>)
+2:34:23 | "Survivor": (steamid=76561198030410516) teleported to (pos=5067.21,0,2382.18)
+2:34:23 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<5067.209961, 9.338882, 2382.179932>)
+2:34:23 | "Survivor": (steamid=76561198030410516) teleported to (pos=5067.21,0,2382.18)
+2:35:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Balota.vpp
+2:35:41 | "Survivor" (steamid=76561198030410516) created new building set (Balota)
+2:38:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Balota.vpp
+2:38:45 | [BuildingSetManager] Saving & Reloading Building Set:Balota
+2:38:45 | "Survivor" (steamid=76561198030410516) updated building set (Balota)
+2:38:45 | [BuildingSetManager] Deleted file: Balota
+2:38:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Balota.vpp
+2:39:22 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<7878.169922, 8.869398, 3234.419922>)
+2:39:22 | "Survivor": (steamid=76561198030410516) teleported to (pos=7878.17,0,3234.42)
+2:42:41 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9231.089844, 214.784378, 3756.929932>)
+2:42:41 | "Survivor": (steamid=76561198030410516) teleported to (pos=9231.09,0,3756.93)
+2:44:26 | "Survivor" (steamid=76561198030410516) deleted building set (Balota)
+2:44:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+2:44:34 | "Survivor" (steamid=76561198030410516) created new building set (Pusta Spawn)
+2:44:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+2:44:51 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+2:44:51 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+2:44:51 | [BuildingSetManager] Deleted file: Pusta Spawn
+2:44:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+2:46:15 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+2:46:15 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+2:46:15 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+2:46:15 | [BuildingSetManager] Deleted file: Pusta Spawn
+2:46:15 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:2:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:2:55 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:2:55 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:2:55 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:2:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:4:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:4:25 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:4:25 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:4:25 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:4:25 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:6:44 | [WeatherManager] Send Data Count is 0
+3:7:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (Fireplace)
+3:10:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:10:8 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:10:8 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:10:8 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:10:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:11:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:11:31 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:11:31 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:11:31 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:11:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:12:7 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:12:7 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:12:7 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:12:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:12:18 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:12:18 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:12:18 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:12:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:12:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:12:32 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:12:32 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:12:32 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:12:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:13:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:13:55 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:13:55 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:13:55 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:13:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:16:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:16:59 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:16:59 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:16:59 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:16:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:21:11 | [WeatherManager] Send Data Count is 0
+3:21:18 | [Time Manager] Setting Date to 2023/9/21 1:52
+3:22:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:22:32 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:22:32 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:22:32 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:22:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:22:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:22:58 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:22:58 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:22:58 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:22:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:23:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:23:31 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:23:31 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:23:31 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:23:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:23:46 | [WeatherManager] Send Data Count is 0
+3:24:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:24:36 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:24:36 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:24:36 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:24:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:26:4 | "Survivor" (steamid=76561198030410516) toggled freecam
+3:26:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:26:18 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:26:18 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:26:18 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:26:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:26:29 | "Survivor" (steamid=76561198030410516) toggled freecam
+3:26:41 | [WeatherManager] Send Data Count is 0
+3:27:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:27:11 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:27:11 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:27:11 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:27:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:27:44 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+3:28:53 | Player "Survivor" (steamId=76561198030410516) connected to server!
+3:29:12 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+3:29:21 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+3:29:21 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:29:21 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:29:22 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:29:22 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:29:22 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:29:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:29:41 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:29:41 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:29:41 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:29:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:30:28 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Kardan_NPC)
+3:30:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Kardan_NPC)
+3:32:19 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:32:19 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+3:32:19 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+3:32:19 | [BuildingSetManager] Deleted file: Pusta Spawn
+3:32:19 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+3:33:38 | "Survivor": (steamid=76561198030410516) teleported to (pos=1)
+3:41:55 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9175.540039, 224.213516, 3945.540039>)
+3:41:55 | "Survivor": (steamid=76561198030410516) teleported to (pos=9175.54,0,3945.54)
+3:42:29 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:42:31 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:42:33 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+3:44:5 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:44:5 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+3:44:8 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+3:44:46 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<7854.620117, 6.525025, 3195.689941>)
+3:44:46 | "Survivor": (steamid=76561198030410516) teleported to (pos=7854.62,0,3195.69)
+3:45:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_Krovosos)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:46:44 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd_Black)
+3:47:59 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Plot_style1)
+3:48:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PseDOG_Brown)
+3:48:36 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SlepoDOG_Brown)
+3:48:50 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_ondinocka)
+3:49:5 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_original)
+3:49:17 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_Krovosos_Dark)
+3:50:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_Krovosos_Boloto)
+3:50:39 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+3:51:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Piyavka)
+3:51:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_original)
+3:53:58 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_Hameleon)
+3:54:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork2)
+3:54:36 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork)
+3:55:5 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+3:55:8 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered)
+3:55:9 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+3:56:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Free)
+3:56:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Neitral)
+3:56:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_ondinocka)
+3:57:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Piyavka)
+3:57:30 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Piyavka)
+3:57:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+3:57:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+3:57:39 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_ondinocka)
+3:57:49 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_red)
+3:58:52 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SlepoDOG_Red)
+3:58:57 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PseDOG_Brown)
+3:59:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_Blue)
+3:59:39 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_green)
+3:59:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_red)
+3:59:42 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_Blue)
+3:59:42 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_Blue)
+4:0:8 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+4:0:14 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CatBaun)
+4:0:17 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+4:1:22 | [WeatherManager] Send Data Count is 0
+4:1:26 | [WeatherManager] Send Data Count is 0
+4:2:53 | "Survivor" (steamid=76561198030410516) toggled freecam
+4:2:54 | "Survivor" (steamid=76561198030410516) toggled freecam
+4:3:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (Battery9V)
+4:3:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (dzn_lehs_battery)
+4:4:4 | "Survivor" (steamid=76561198030410516) toggled freecam
+4:4:38 | "Survivor" (steamid=76561198030410516) toggled freecam
+4:4:46 | "Survivor" (steamid=76561198030410516) toggled godmode
+4:4:47 | "Survivor" (steamid=76561198030410516) toggled godmode
+4:4:54 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<6499.919922, 6.000000, 2513.860107>)
+4:4:54 | "Survivor": (steamid=76561198030410516) teleported to (pos=6499.92,0,2513.86)
+4:5:18 | "Survivor" (steamid=76561198030410516) toggled freecam
+4:5:43 | "Survivor" (steamid=76561198030410516) toggled freecam
+4:6:5 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9110.410156, 254.927414, 4086.560059>)
+4:6:5 | "Survivor": (steamid=76561198030410516) teleported to (pos=9110.41,0,4086.56)
+4:6:17 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9159.620117, 223.392075, 3764.199951>)
+4:6:17 | "Survivor": (steamid=76561198030410516) teleported to (pos=9159.62,0,3764.2)
+4:6:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+4:6:50 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+4:6:50 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+4:6:50 | [BuildingSetManager] Deleted file: Pusta Spawn
+4:6:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+4:6:59 | "Survivor" (steamid=76561198030410516) toggled godmode
+4:7:0 | "Survivor" (steamid=76561198030410516) toggled godmode
+4:9:55 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+4:9:56 | Player "Survivor" (steamId=76561198030410516) disconnected early from server (EXIT NOW).
+8:6:42 | Player "Kraju" (steamId=76561199056563878) connected to server!
+8:24:27 | Player "Kraju" (steamId=76561199056563878) initiated disconnect process...
+8:28:33 | Player "Kraju" (steamId=76561199056563878) connected to server!
+8:28:59 | Player "Kraju" (steamId=76561199056563878) initiated disconnect process...
+8:30:17 | Player "Kraju" (steamId=76561199056563878) connected to server!
+8:45:38 | Player "Survivor" (steamId=76561198242953086) connected to server!
+9:59:47 | Player "Kraju" (steamId=76561199056563878) initiated disconnect process...
+13:0:51 | Player "Survivor" (steamId=76561198242953086) initiated disconnect process...
+13:0:52 | Player "Mozz" (steamId=76561198005481418) connected to server!
+13:1:6 | Player "Survivor" (steamId=76561198242953086) disconnected from server.
+13:2:30 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<11590.799805, 57.910000, 14702.000000>)
+13:2:30 | "Mozz": (steamid=76561198005481418) teleported to (pos=11590.8,0,14702)
+13:4:25 | "Mozz" (steamid=76561198005481418) Spawned Item: (LeatherSewingKit)
+13:4:53 | "Mozz" (steamid=76561198005481418) Spawned Item: (SewingKit)
+13:5:2 | "Mozz" (steamid=76561198005481418) Spawned Item: (SewingKit)
+13:6:15 | Player "Survivor" (steamId=76561198030410516) connected to server!
+13:6:52 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+13:6:52 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+13:6:52 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+13:6:53 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198030410516)
+13:6:53 | "Survivor" (steamid=76561198030410516) healed player (steamid=76561198030410516)
+13:6:58 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+13:7:17 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+13:7:17 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+13:7:17 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+13:7:17 | [BuildingSetManager] Deleted file: Pusta Spawn
+13:7:17 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+13:11:29 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<11621.900391, 57.910000, 14657.400391>)
+13:11:29 | "Survivor": (steamid=76561198030410516) teleported to (pos=11621.9,0,14657.4)
+13:30:59 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9161.799805, 223.182999, 3759.080078>)
+13:30:59 | "Survivor": (steamid=76561198030410516) teleported to (pos=9161.8,0,3759.08)
+13:31:35 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<11629.200195, 57.796947, 14648.799805>)
+13:31:35 | "Survivor": (steamid=76561198030410516) teleported to (pos=11629.2,0,14648.8)
+13:35:14 | Player "Kirchhoff" (steamId=76561198242953086) connected to server!
+13:35:29 | Player "Kirchhoff" (steamId=76561198242953086) initiated disconnect process...
+13:39:50 | Player "Kirchhoff" (steamId=76561198242953086) connected to server!
+13:39:55 | Player "Kirchhoff" (steamId=76561198242953086) initiated disconnect process...
+13:40:16 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9156.419922, 223.549606, 3761.110107>)
+13:40:16 | "Survivor": (steamid=76561198030410516) teleported to (pos=9156.42,0,3761.11)
+13:48:4 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+13:48:6 | Player "Survivor" (steamId=76561198030410516) disconnected early from server (EXIT NOW).
+13:51:25 | Player "Kirchhoff" (steamId=76561198242953086) connected to server!
+13:53:2 | Player "Survivor" (steamId=76561198030410516) connected to server!
+13:53:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+13:53:28 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+13:53:28 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+13:53:28 | [BuildingSetManager] Deleted file: Pusta Spawn
+13:53:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+13:55:45 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198242953086)
+13:56:4 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+13:56:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+13:56:28 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+13:56:46 | [WeatherManager] Send Data Count is 0
+13:57:21 | [WeatherManager] Send Data Count is 0
+13:57:40 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Piyavka)
+13:58:28 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+13:58:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Plot_style1)
+13:59:27 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PseDOG_Brown)
+13:59:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SlepoDOG_Brown)
+14:0:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Monolit)
+14:1:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Free)
+14:1:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_Hameleon)
+14:1:58 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+14:2:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CatBaun)
+14:2:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_RatDog)
+14:2:46 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork)
+14:3:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+14:3:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+14:3:52 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered)
+14:4:13 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+14:5:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+14:5:31 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+14:5:31 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+14:5:31 | [BuildingSetManager] Deleted file: Pusta Spawn
+14:5:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+14:6:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+14:6:8 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+14:6:8 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+14:6:8 | [BuildingSetManager] Deleted file: Pusta Spawn
+14:6:8 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+14:6:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+14:6:41 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+14:6:41 | "Survivor" (steamid=76561198030410516) updated building set (Pusta Spawn)
+14:6:41 | [BuildingSetManager] Deleted file: Pusta Spawn
+14:6:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+14:7:30 | "Survivor": (steamid=76561198030410516) teleported to (pos=3)
+14:7:33 | "Survivor": (steamid=76561198030410516) teleported to (pos=1)
+14:8:5 | "Survivor": (steamid=76561198030410516) teleported to (pos=33)
+14:11:34 | [WeatherManager] Send Data Count is 0
+14:11:50 | [WeatherManager] Send Data Count is 0
+14:12:47 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+14:16:10 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9146.889648, 223.321869, 3790.580078>)
+14:16:10 | "Survivor": (steamid=76561198030410516) teleported to (pos=9146.89,0,3790.58)
+14:18:53 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FIREGUN)
+14:19:19 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FireGun_Ammo)
+14:19:19 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FireGun_GasBal)
+14:20:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Molotov)
+14:20:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Molotov)
+14:20:37 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Molotov)
+14:20:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Molotov)
+14:20:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Molotov)
+14:22:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FireGun_GasBal)
+14:22:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FireGun_GasBal)
+14:22:51 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_BALLERINA_AH_RIGHT)
+14:22:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_FemaleDance_NPC)
+14:23:21 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Military_NPC_pose1)
+14:23:36 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_StalkerNPC_Gaming1)
+14:23:39 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_StalkerNPC_Gaming2)
+14:24:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CombezBullatHelmet_Dolg)
+14:24:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CombezBullat_Dolg)
+14:24:3 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CombezBullatPants_DOLG)
+14:24:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Collection_Jural_40)
+14:25:18 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Collection_Jural_46)
+14:25:27 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Collection_Jural_53)
+14:25:58 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ArmaGerlMaskarad)
+14:26:13 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_EcologBig_Helm)
+14:26:13 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_EcologBig_pants)
+14:26:14 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_EcologBig_tors)
+14:26:14 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_EcologBig_Boots)
+14:26:59 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Novice_jacket_Hood)
+14:27:30 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Maskarad_Gloves)
+14:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Maskarad_Head)
+14:27:31 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Maskarad_pants)
+14:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Maskarad_tors)
+14:27:32 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Maskarad_boots)
+14:27:52 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Skeleton_Kostum)
+14:27:54 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Skeleton_Kostum)
+14:29:24 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_GitaraMYZ)
+14:29:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_BalalaikaMYZ)
+14:29:40 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_GubGarmonMYZ)
+14:29:44 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SvistokMYZ)
+14:30:20 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_VAPE_Red_SMOKE)
+14:30:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_SIGARETA_SMOKE)
+14:30:49 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_LapTop_work)
+14:32:19 | [WeatherManager] Send Data Count is 0
+14:32:54 | [WeatherManager] Send Data Count is 0
+14:32:59 | [Time Manager] Setting Date to 2023/9/25 1:52
+14:36:10 | "Mozz" (steamid=76561198005481418) toggled godmode
+14:36:11 | "Mozz" (steamid=76561198005481418) toggled godmode
+14:36:15 | "Mozz" (steamid=76561198005481418) toggled godmode
+14:36:17 | "Mozz" (steamid=76561198005481418) Spawned Item: (SFP_Oka_Car)
+14:36:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+14:36:24 | "Mozz" (steamid=76561198005481418) Spawned Item: (SFP_Oka_Car)
+14:36:25 | "Mozz" (steamid=76561198005481418) Spawned Item: (SFP_Oka_Car)
+14:36:25 | "Mozz" (steamid=76561198005481418) Spawned Item: (SFP_Oka_Car)
+14:36:43 | "Mozz" (steamid=76561198005481418) gave unlimited ammo to (steamid=76561198005481418)
+14:38:27 | "Mozz" (steamid=76561198005481418) Spawned Item: (SFP_BALLERINA_AH_RIGHT)
+14:39:16 | "Survivor" (steamid=76561198030410516) gave unlimited ammo to (steamid=76561198030410516)
+14:40:27 | "Survivor" (steamid=76561198030410516) Spawned Item: (Ammo_12gaSlug)
+14:40:28 | "Survivor" (steamid=76561198030410516) Spawned Item: (Ammo_12gaSlug)
+14:40:28 | "Survivor" (steamid=76561198030410516) Spawned Item: (Ammo_12gaSlug)
+14:40:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (Ammo_12gaSlug)
+14:53:2 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+14:53:4 | Player "Survivor" (steamId=76561198030410516) disconnected early from server (EXIT NOW).
+14:56:12 | "Mozz" (steamid=76561198005481418) toggled godmode
+15:1:22 | Player "Mozz" (steamId=76561198005481418) initiated disconnect process...
+15:1:24 | Player "Mozz" (steamId=76561198005481418) disconnected early from server (EXIT NOW).
+15:26:48 | Player "Jackson" (steamId=76561198010908248) connected to server!
+15:40:9 | Player "Miki_sz" (steamId=76561198077711091) connected to server!
+15:52:52 | Player "Survivor" (steamId=76561198030410516) connected to server!
+15:53:18 | "Survivor" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+15:54:48 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<11191.200195, 134.015717, 6990.100098>)
+15:54:48 | "Survivor": (steamid=76561198030410516) teleported to (pos=11191.2,0,6990.1)
+15:57:22 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10228.000000, 20.566063, 2281.379883>)
+15:57:22 | "Survivor": (steamid=76561198030410516) teleported to (pos=10228,0,2281.38)
+15:58:33 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10293.599609, 12.660110, 2257.110107>)
+15:58:33 | "Survivor": (steamid=76561198030410516) teleported to (pos=10293.6,0,2257.11)
+16:0:2 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Plot_eye)
+16:0:11 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PseDOG_Brown)
+16:1:2 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:1:36 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:2:2 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10449.799805, 6.000000, 2283.159912>)
+16:2:2 | "Survivor": (steamid=76561198030410516) teleported to (pos=10449.8,0,2283.16)
+16:2:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_PseDOG_Brown)
+16:6:47 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10483.400391, 6.000000, 2367.459961>)
+16:6:47 | "Survivor": (steamid=76561198030410516) teleported to (pos=10483.4,0,2367.46)
+16:6:57 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10477.299805, 6.000000, 2351.520020>)
+16:6:57 | "Survivor": (steamid=76561198030410516) teleported to (pos=10477.3,0,2351.52)
+16:7:13 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10508.799805, 6.000000, 2349.780029>)
+16:7:13 | "Survivor": (steamid=76561198030410516) teleported to (pos=10508.8,0,2349.78)
+16:11:18 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Free)
+16:12:1 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Monolit)
+16:12:1 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Monolit)
+16:13:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Free)
+16:14:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+16:24:6 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12111.400391, 34.148735, 9364.549805>)
+16:24:6 | "Survivor": (steamid=76561198030410516) teleported to (pos=12111.4,0,9364.55)
+16:24:27 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12094.400391, 33.168648, 9397.160156>)
+16:24:27 | "Survivor": (steamid=76561198030410516) teleported to (pos=12094.4,0,9397.16)
+16:25:29 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+16:26:48 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12040.299805, 54.009674, 9173.570313>)
+16:26:48 | "Survivor": (steamid=76561198030410516) teleported to (pos=12040.3,0,9173.57)
+16:27:0 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+16:28:8 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10366.700195, 49.503242, 3304.439941>)
+16:28:8 | "Survivor": (steamid=76561198030410516) teleported to (pos=10366.7,0,3304.44)
+16:28:22 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+16:28:57 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_ANM_BIG_Krovosos)
+16:29:54 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_Hameleon)
+16:30:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Bloodsucker_green)
+16:31:16 | Player "Mozz" (steamId=76561198005481418) connected to server!
+16:31:25 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:31:34 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:32:15 | "Mozz" (steamid=76561198005481418) Spawned Item: (ExpansionSoldierKaito)
+16:32:32 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:32:34 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:33:3 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12040.099609, 53.805710, 9187.370117>)
+16:33:3 | "Survivor": (steamid=76561198030410516) teleported to (pos=12040.1,0,9187.37)
+16:33:5 | "Mozz" (steamid=76561198005481418) Spawned Item: (eAI_SurvivorF_Irena)
+16:33:40 | "Mozz" (steamid=76561198005481418) toggled godmode
+16:34:10 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Novice_jacket_Hood)
+16:34:18 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<9400.450195, 226.228134, 3872.020020>)
+16:34:18 | "Mozz": (steamid=76561198005481418) teleported to (pos=9400.45,0,3872.02)
+16:34:21 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:34:45 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Novice_jacket_Hood)
+16:35:1 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:35:2 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:35:4 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:35:16 | "Mozz" (steamid=76561198005481418) toggled freecam
+16:35:22 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10358.000000, 39.919899, 3465.189941>)
+16:35:22 | "Survivor": (steamid=76561198030410516) teleported to (pos=10358,0,3465.19)
+16:36:20 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:38:0 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:38:13 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<11996.000000, 53.990002, 9150.429688>)
+16:38:13 | "Survivor": (steamid=76561198030410516) teleported to (pos=11996,0,9150.43)
+16:40:33 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10363.200195, 41.084999, 3441.080078>)
+16:40:33 | "Survivor": (steamid=76561198030410516) teleported to (pos=10363.2,0,3441.08)
+16:42:25 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+16:42:50 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+16:43:7 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+16:43:58 | [WeatherManager] Send Data Count is 0
+16:44:4 | Player "Kirchhoff" (steamId=76561198242953086) initiated disconnect process...
+16:44:19 | Player "Kirchhoff" (steamId=76561198242953086) disconnected from server.
+16:45:2 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+16:46:15 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Neitral)
+16:46:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_Monolit)
+16:46:54 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Zombirovan_DOLG)
+16:47:8 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:48:6 | [WeatherManager] Send Data Count is 0
+16:49:56 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:50:41 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+16:54:45 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12019.000000, 53.991898, 9118.580078>)
+16:54:45 | "Survivor": (steamid=76561198030410516) teleported to (pos=12019,0,9118.58)
+16:55:6 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+16:55:35 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CatBaun)
+16:55:40 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:56:13 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:56:36 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10270.799805, 41.291599, 3563.699951>)
+16:56:36 | "Survivor": (steamid=76561198030410516) teleported to (pos=10270.8,0,3563.7)
+16:57:10 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10232.200195, 50.740974, 3651.889893>)
+16:57:10 | "Survivor": (steamid=76561198030410516) teleported to (pos=10232.2,0,3651.89)
+16:57:25 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10290.099609, 57.132774, 3883.899902>)
+16:57:25 | "Survivor": (steamid=76561198030410516) teleported to (pos=10290.1,0,3883.9)
+16:57:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_CatBaun)
+16:58:1 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork)
+16:58:23 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:59:9 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:59:23 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+16:59:30 | "Survivor" (steamid=76561198030410516) toggled freecam
+16:59:51 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:0:7 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Mutant_Snork2)
+17:0:16 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:0:48 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:0:57 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10375.200195, 60.809933, 3818.780029>)
+17:0:57 | "Survivor": (steamid=76561198030410516) teleported to (pos=10375.2,0,3818.78)
+17:1:5 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+17:1:6 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Pered_GIGANT)
+17:1:51 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:2:17 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:2:17 | "Survivor" (steamid=76561198030410516) created new building set (test)
+17:2:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:2:31 | [BuildingSetManager] Saving & Reloading Building Set:test
+17:2:31 | "Survivor" (steamid=76561198030410516) updated building set (test)
+17:2:31 | [BuildingSetManager] Deleted file: test
+17:2:31 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:4:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:4:38 | [BuildingSetManager] Saving & Reloading Building Set:test
+17:4:38 | "Survivor" (steamid=76561198030410516) updated building set (test)
+17:4:38 | [BuildingSetManager] Deleted file: test
+17:4:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:5:55 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+17:6:15 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:6:22 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:6:24 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<11331.299805, 118.421761, 8983.790039>)
+17:6:24 | "Mozz": (steamid=76561198005481418) teleported to (pos=11331.3,0,8983.79)
+17:6:27 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:6:29 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:6:34 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:6:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:6:50 | [BuildingSetManager] Saving & Reloading Building Set:test
+17:6:50 | "Survivor" (steamid=76561198030410516) updated building set (test)
+17:6:50 | [BuildingSetManager] Deleted file: test
+17:6:50 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:6:58 | "Survivor" (steamid=76561198030410516) deleted building set (test)
+17:7:18 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+17:7:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+17:7:38 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+17:7:39 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+17:7:47 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+17:8:16 | "Survivor" (steamid=76561198030410516) Spawned Item: (Chemlight_Red)
+17:8:17 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:8:29 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<10637.099609, 158.390259, 3989.439941>)
+17:8:29 | "Mozz": (steamid=76561198005481418) teleported to (pos=10637.1,0,3989.44)
+17:8:38 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:8:54 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:8:56 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_MissionEffects_Flare)
+17:9:3 | "Mozz" (steamid=76561198005481418) gave godmode to (steamid=76561198005481418)
+17:9:5 | "Mozz" (steamid=76561198005481418) gave godmode to (steamid=76561198005481418)
+17:9:6 | "Mozz" (steamid=76561198005481418) gave unlimited ammo to (steamid=76561198005481418)
+17:11:58 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10308.400391, 50.560818, 3830.199951>)
+17:11:58 | "Survivor": (steamid=76561198030410516) teleported to (pos=10308.4,0,3830.2)
+17:12:15 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<10257.400391, 61.229790, 3968.020020>)
+17:12:15 | "Survivor": (steamid=76561198030410516) teleported to (pos=10257.4,0,3968.02)
+17:12:38 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:12:43 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_MissionEffects_Flare)
+17:13:6 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:13:59 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:14:23 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:14:38 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12080.000000, 53.884399, 9065.120117>)
+17:14:38 | "Survivor": (steamid=76561198030410516) teleported to (pos=12080,0,9065.12)
+17:14:51 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:15:31 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:15:36 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:15:38 | "Survivor" (steamid=76561198030410516) deleted objects using ESP
+17:16:12 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:16:20 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:16:46 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:16:55 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:17:3 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:17:3 | "Survivor" (steamid=76561198030410516) created new building set (test)
+17:17:5 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:17:12 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:17:48 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:17:49 | [BuildingSetManager] Saving & Reloading Building Set:test
+17:17:49 | "Survivor" (steamid=76561198030410516) updated building set (test)
+17:17:49 | [BuildingSetManager] Deleted file: test
+17:17:49 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:18:5 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:18:10 | "Mozz" (steamid=76561198005481418) Spawned Item: (MMG_JPC_Vest_erdl)
+17:18:20 | "Survivor" (steamid=76561198030410516) spawned preset: (Black Camo AKM)
+17:18:20 | "Mozz" (steamid=76561198005481418) Spawned Item: (MMG_combatpants_erdl)
+17:18:21 | "Mozz" (steamid=76561198005481418) Spawned Item: (MMG_combatshirt_erdl)
+17:18:25 | "Mozz" (steamid=76561198005481418) Spawned Item: (mmg_tactical_gloves_erdl)
+17:18:29 | "Mozz" (steamid=76561198005481418) Spawned Item: (MMG_boots_erdl)
+17:18:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+17:18:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+17:18:34 | "Survivor" (steamid=76561198030410516) Spawned Item: (Mag_AKM_Drum75Rnd)
+17:18:39 | "Mozz" (steamid=76561198005481418) Spawned Item: (M4A1)
+17:19:30 | "Survivor" (steamid=76561198030410516) Spawned Item: (AirdropFlare)
+17:19:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (alp_MissionEffects_Flare)
+17:19:44 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:20:0 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:20:14 | "Mozz" (steamid=76561198005481418) Spawned Item: (M4_OEBttstck)
+17:20:16 | "Mozz" (steamid=76561198005481418) Spawned Item: (M4_RISHndgrd)
+17:20:33 | "Mozz" (steamid=76561198005481418) Spawned Item: (M4_T3NRDSOptic)
+17:20:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:20:52 | [BuildingSetManager] Saving & Reloading Building Set:test
+17:20:52 | "Survivor" (steamid=76561198030410516) updated building set (test)
+17:20:52 | [BuildingSetManager] Deleted file: test
+17:20:52 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:20:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:20:57 | [BuildingSetManager] Saving & Reloading Building Set:test
+17:20:57 | "Survivor" (steamid=76561198030410516) updated building set (test)
+17:20:57 | [BuildingSetManager] Deleted file: test
+17:20:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/test.vpp
+17:20:57 | "Mozz" (steamid=76561198005481418) Spawned Item: (Mag_STANAG_30Rnd)
+17:20:58 | "Mozz" (steamid=76561198005481418) Spawned Item: (Mag_STANAG_30Rnd)
+17:20:59 | "Mozz" (steamid=76561198005481418) Spawned Item: (Mag_STANAG_30Rnd)
+17:20:59 | "Mozz" (steamid=76561198005481418) Spawned Item: (Mag_STANAG_30Rnd)
+17:21:5 | "Survivor" (steamid=76561198030410516) deleted building set (test)
+17:21:33 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_Gigant_Zad)
+17:21:56 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:22:4 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<10580.200195, 290.313263, 5587.450195>)
+17:22:4 | "Mozz": (steamid=76561198005481418) teleported to (pos=10580.2,0,5587.45)
+17:22:35 | "Mozz" (steamid=76561198005481418) toggled godmode
+17:22:36 | "Mozz" (steamid=76561198005481418) toggled godmode
+17:22:41 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<11205.099609, 241.001846, 4642.250000>)
+17:22:41 | "Mozz": (steamid=76561198005481418) teleported to (pos=11205.1,0,4642.25)
+17:22:54 | "Mozz" (steamid=76561198005481418) Spawned Item: (eAI_SurvivorF_Naomi)
+17:23:2 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:23:38 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:23:48 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<11204.799805, 277.649811, 4143.319824>)
+17:23:48 | "Survivor": (steamid=76561198030410516) teleported to (pos=11204.8,0,4143.32)
+17:24:22 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:24:45 | "Survivor" (steamid=76561198030410516) Spawned Item: (SFP_RatDog)
+17:24:51 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:25:31 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:27:9 | "Survivor" (steamid=76561198030410516) just updated a health stat on (steamid=76561198010908248)
+17:28:32 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<12177.700195, 47.668766, 8926.610352>)
+17:28:32 | "Survivor": (steamid=76561198030410516) teleported to (pos=12177.7,0,8926.61)
+17:28:37 | "Survivor" (steamid=76561198030410516) toggled freecam
+17:29:14 | Player "Survivor" (steamId=76561198030410516) initiated disconnect process...
+17:29:16 | Player "Survivor" (steamId=76561198030410516) disconnected early from server (EXIT NOW).
+17:31:23 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:31:29 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<12098.200195, 81.486961, 10430.900391>)
+17:31:29 | "Mozz": (steamid=76561198005481418) teleported to (pos=12098.2,0,10430.9)
+17:31:31 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:31:33 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:31:36 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:31:41 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:31:46 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:33:25 | "Mozz" (steamid=76561198005481418) toggled freecam
+17:33:39 | "Mozz" (steamid=76561198005481418) toggled godmode
+17:33:49 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<7095.859863, 260.055298, 6551.600098>)
+17:33:49 | "Mozz": (steamid=76561198005481418) teleported to (pos=7095.86,0,6551.6)
+17:35:32 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<7727.720215, 221.691589, 5619.779785>)
+17:35:32 | "Mozz": (steamid=76561198005481418) teleported to (pos=7727.72,0,5619.78)
+17:56:31 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+17:57:6 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+17:57:16 | "Mozz" (steamid=76561198005481418) gave godmode to (steamid=76561198005481418)
+17:57:19 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+17:57:26 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+17:57:29 | "Mozz" (steamid=76561198005481418) just updated a health stat on (steamid=76561198005481418)
+17:57:31 | "Mozz" (steamid=76561198005481418) just updated a health stat on (steamid=76561198005481418)
+17:57:36 | "Mozz" (steamid=76561198005481418) gave godmode to (steamid=76561198005481418)
+17:57:37 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+17:57:39 | "Mozz" (steamid=76561198005481418) gave godmode to (steamid=76561198005481418)
+18:1:38 | "Mozz" (steamid=76561198005481418) healed player (steamid=76561198005481418)
+18:1:39 | "Mozz" (steamid=76561198005481418) gave unlimited ammo to (steamid=76561198005481418)
+18:1:46 | "Mozz" (steamid=76561198005481418) gave unlimited ammo to (steamid=76561198005481418)
+18:3:19 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<4579.490234, 339.000000, 9598.900391>)
+18:3:19 | "Mozz": (steamid=76561198005481418) teleported to (pos=4579.49,0,9598.9)
+18:6:11 | "76561198005481418" (steamid=76561198005481418) teleported to (pos=<6031.609863, 300.669342, 7846.430176>)
+18:6:11 | "Mozz": (steamid=76561198005481418) teleported to (pos=6031.61,0,7846.43)
+18:8:7 | Player "Mozz" (steamId=76561198005481418) initiated disconnect process...
+18:8:8 | Player "Mozz" (steamId=76561198005481418) disconnected early from server (EXIT NOW).
+18:24:21 | Player "Kirchhoff" (steamId=76561198242953086) connected to server!
+18:24:53 | Player "Kirchhoff" (steamId=76561198242953086) initiated disconnect process...
+18:24:58 | Player "Kirchhoff" (steamId=76561198242953086) aborted logout process [canceledLogout]
+18:24:58 | Player "Kirchhoff" (steamId=76561198242953086) aborted logout process [canceledLogout]
+18:24:58 | Player "Kirchhoff" (steamId=76561198242953086) aborted logout process [canceledLogout]
+18:59:28 | Player "Kirchhoff" (steamId=76561198242953086) initiated disconnect process...
+18:59:43 | Player "Kirchhoff" (steamId=76561198242953086) disconnected from server.
+19:12:12 | Player "Kraju" (steamId=76561199056563878) connected to server!
+19:36:43 | Player "Kraju" (steamId=76561199056563878) initiated disconnect process...
+19:36:44 | Player "Kraju" (steamId=76561199056563878) disconnected early from server (EXIT NOW).
+19:45:17 | Player "Jackson" (steamId=76561198010908248) initiated disconnect process...
+19:45:23 | Player "Jackson" (steamId=76561198010908248) disconnected early from server (EXIT NOW).
+19:45:32 | Player "Jackson" (steamId=76561198010908248) disconnected from server.
+19:46:30 | Player "Miki_sz" (steamId=76561198077711091) initiated disconnect process...
+19:46:44 | Player "Miki_sz" (steamId=76561198077711091) disconnected early from server (EXIT NOW).
+19:46:45 | Player "Miki_sz" (steamId=76561198077711091) disconnected from server.
+20:36:4 | Player "Kraju" (steamId=76561199056563878) connected to server!
+21:1:57 | Player "Sasha Balalayka" (steamId=76561198030410516) connected to server!
+21:2:22 | "Sasha Balalayka" (steamid=76561198030410516) gave godmode to (steamid=76561198030410516)
+21:25:15 | "76561198030410516" (steamid=76561198030410516) teleported to (pos=<9155.759766, 223.550568, 3761.469971>)
+21:25:15 | "Sasha Balalayka": (steamid=76561198030410516) teleported to (pos=9155.76,0,3761.47)
+21:25:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+21:25:36 | [BuildingSetManager] Saving & Reloading Building Set:Pusta Spawn
+21:25:36 | "Sasha Balalayka" (steamid=76561198030410516) updated building set (Pusta Spawn)
+21:25:36 | [BuildingSetManager] Deleted file: Pusta Spawn
+21:25:36 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/Pusta Spawn.vpp
+21:27:6 | Player "Sasha Balalayka" (steamId=76561198030410516) initiated disconnect process...
+21:27:11 | Player "Sasha Balalayka" (steamId=76561198030410516) disconnected early from server (EXIT NOW).
+21:27:22 | Player "Sasha Balalayka" (steamId=76561198030410516) disconnected from server.
+21:27:30 | Player "Kraju" (steamId=76561199056563878) initiated disconnect process...
+21:27:36 | Player "Kraju" (steamId=76561199056563878) disconnected early from server (EXIT NOW).
+21:27:45 | Player "Kraju" (steamId=76561199056563878) disconnected from server.

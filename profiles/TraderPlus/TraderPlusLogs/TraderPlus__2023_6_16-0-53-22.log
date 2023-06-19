@@ -1,0 +1,305 @@
+Creation Time: 2023_6_16-0-53-22
+0-53-22 | [INFO] TraderPlusCore - Started !
+0-53-22 | [INFO] TraderPlus file exist ! loading...
+0-53-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+0-53-22 | [INFO] TraderPlus file exist ! loading...
+0-53-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+0-53-22 | [INFO] TraderPlus file exist ! loading...
+0-53-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+0-53-23 | [INFO] TraderPlus file exist ! loading...
+0-53-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+0-53-23 | [INFO] TraderPlus file exist ! loading...
+0-53-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+0-53-23 | [INFO] TraderPlus file exist ! loading...
+0-53-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+0-53-23 | [INFO] TraderPlusServer - Started
+0-53-23 | [INFO] TraderPlusBankingCore - Started !
+0-53-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+0-53-23 | [INFO] TraderPlusBankingServer - Started
+0-53-23 | [INFO] CarLockCore - Started !
+0-53-23 | [INFO] CarLockServer - Started
+0-53-28 | [INFO] SafeZoneCore - Started !
+0-53-28 | [INFO] DEBUG MODE ENABLED
+0-54-52 | [INFO] ID_count: 5
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Licences.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Vegetables.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Animal Parts.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Drinks.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Medical Supplies.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Medications.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Melee.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sidearms.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Rifles.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Shotguns.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Submachine Guns.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Assault Rifles.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sniper Rifles.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Grenades.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Ammunition.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Magazines.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Handguards.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Buttstocks.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Optics.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Supressors.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Compensators.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Bayonets.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Weapons 1.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Weapons 2.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Scopes.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU HandGuards.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Stocks.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Suppressors.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Bipods.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Attachments.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Ammo.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Grips.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Flashlights.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Tools.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Heavy Tools.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Electronics.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Furniture.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Fire & Lights.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Cooking & Hunting Supplies.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Hardware Supplies.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Seeds & Lime.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Glasses.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Armbands.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Gloves.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Hats & Caps.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Helmets.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Masks.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Shirts.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Hoodies & Sweater.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Vests.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Jackets & Coats.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Skirts & Dresses.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Pants.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Shoes & Boots.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Ghillie.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holster & Pouches.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Belt.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Bags.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\ATACS AU.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\ATACS FG.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam Black.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam Snow.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam Tropic.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\SURPAT.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG NBC gear.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG goggles.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Sniper Boonie.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Chest Rig.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Plate Carriers.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Tactical-TEC Vest.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG MK-III Armor.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Pouches.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Backpacks.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Belt.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Helmets.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Helmet Attachments.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Holster.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Sheath.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Bottle.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG MMG Carbine.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Combatpants.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Tactical Pants.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Combatshirt.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Operator Shirt.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Tactical Shirt.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMMG Tactical Gloves.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Jungle Boots.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Facemask.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Balaclava.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Heavy Armour.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Patches.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Patches.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vehicles.json
+0-54-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vehicle Parts.json
+0-54-52 | [INFO] SetTradersSpawner: Started
+0-54-52 | [INFO] obj created: TraderPlusSign
+0-54-52 | [INFO] TraderStatic created and added!: 
+0-54-52 | [INFO] obj created: SurvivorM_Jose
+0-54-52 | [INFO] TraderPlayer created and added!: 
+0-54-52 | [INFO] obj created: TraderPlusSign
+0-54-52 | [INFO] TraderStatic created and added!: 
+0-54-52 | [INFO] obj created: SurvivorM_Peter
+0-54-52 | [INFO] TraderPlayer created and added!: 
+0-54-52 | [INFO] obj created: TraderPlusSign
+0-54-52 | [INFO] TraderStatic created and added!: 
+0-54-52 | [INFO] obj created: TraderPlus_BANK_ATM
+0-54-52 | [INFO] TraderStatic created and added!: 
+0-54-52 | [INFO] SetTradersSpawner: Ended
+0-54-52 | [INFO] SetObjectSpawner: Started
+0-54-52 | [INFO] SetObjectSpawner: Ended
+0-54-52 | [INFO] DefaultTraderStock - Started
+0-55-21 | [INFO] GetSafeStatut
+0-55-26 | [INFO] InsuranceRequestHandler
+0-55-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+0-56-44 | [INFO] InsuranceRequestHandler
+0-56-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+0-58-31 | [INFO] GetSafeStatut
+1-3-50 | [INFO] GetSafeStatut
+1-3-55 | [INFO] InsuranceRequestHandler
+1-3-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-4-43 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-5-7 | [INFO] InsuranceRequestHandler
+1-5-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-5-29 | [INFO] InsuranceRequestHandler
+1-5-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-7-26 | [INFO] InsuranceRequestHandler
+1-7-26 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-7-33 | [INFO] InsuranceRequestHandler
+1-7-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-7-49 | [INFO] InsuranceRequestHandler
+1-7-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-8-21 | [INFO] InsuranceRequestHandler
+1-8-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-8-35 | [INFO] InsuranceRequestHandler
+1-8-35 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-9-9 | [INFO] InsuranceRequestHandler
+1-9-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-9-23 | [INFO] InsuranceRequestHandler
+1-9-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-9-36 | [INFO] InsuranceRequestHandler
+1-9-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-10-58 | [INFO] InsuranceRequestHandler
+1-10-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-11-29 | [INFO] InsuranceRequestHandler
+1-11-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-11-38 | [INFO] InsuranceRequestHandler
+1-11-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-11-43 | [INFO] TraderID: 1 - Customer: Survivor (2) - Category: Submachine Guns - ClassName: MP5K - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 2 - Price: 225 - CollateralMoney: 0 - TradeMode:Sell
+1-11-43 | [INFO] Transaction Sell Succeeded:Survivor (2) product:MP5K quantity:0 health:2 price:225
+1-11-46 | [INFO] TraderID: 1 - Customer: Survivor (2) - Category: Buttstocks - ClassName: MP5k_StockBttstck - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 50 - CollateralMoney: 0 - TradeMode:Sell
+1-11-46 | [INFO] Transaction Sell Succeeded:Survivor (2) product:MP5k_StockBttstck quantity:0 health:0 price:50
+1-11-49 | [INFO] TraderID: 1 - Customer: Survivor (2) - Category: Handguards - ClassName: MP5_PlasticHndgrd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 1 - Price: 37 - CollateralMoney: 0 - TradeMode:Sell
+1-11-49 | [INFO] Transaction Sell Succeeded:Survivor (2) product:MP5_PlasticHndgrd quantity:0 health:1 price:37
+1-12-28 | [INFO] InsuranceRequestHandler
+1-12-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-12-32 | [INFO] TraderID: 1 - Customer: Survivor (2) - Category: Magazines - ClassName: Mag_UMP_25Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 75 - CollateralMoney: 0 - TradeMode:Sell
+1-12-32 | [INFO] Transaction Sell Succeeded:Survivor (2) product:Mag_UMP_25Rnd quantity:0 health:0 price:75
+1-12-54 | [INFO] InsuranceRequestHandler
+1-12-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-12-57 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: Bags - ClassName: MountainBag_Blue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 80 - CollateralMoney: 0 - TradeMode:Sell
+1-12-57 | [INFO] Transaction Sell Succeeded:Survivor (2) product:MountainBag_Blue quantity:0 health:0 price:80
+1-13-9 | [INFO] InsuranceRequestHandler
+1-13-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-13-13 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: Bags - ClassName: SurvivorBackpack_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Sell
+1-13-13 | [INFO] Transaction Sell Succeeded:Survivor (2) product:SurvivorBackpack_Black quantity:0 health:0 price:1500
+1-14-7 | [INFO] InsuranceRequestHandler
+1-14-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-14-12 | [INFO] InsuranceRequestHandler
+1-14-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-15-37 | [INFO] InsuranceRequestHandler
+1-15-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-17-34 | [INFO] InsuranceRequestHandler
+1-17-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-17-45 | [INFO] TraderID: 0 - Customer: Survivor (2) - Category: Medical Supplies - ClassName: Thermometer - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2 - CollateralMoney: 0 - TradeMode:Sell
+1-17-45 | [INFO] Transaction Sell Succeeded:Survivor (2) product:Thermometer quantity:0 health:0 price:2
+1-17-47 | [INFO] TraderID: 0 - Customer: Survivor (2) - Category: Medical Supplies - ClassName: StartKitIV - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6 - CollateralMoney: 0 - TradeMode:Sell
+1-17-47 | [INFO] Transaction Sell Succeeded:Survivor (2) product:StartKitIV quantity:0 health:0 price:6
+1-17-50 | [INFO] TraderID: 0 - Customer: Survivor (2) - Category: Medical Supplies - ClassName: StartKitIV - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6 - CollateralMoney: 0 - TradeMode:Sell
+1-17-50 | [INFO] Transaction Sell Succeeded:Survivor (2) product:StartKitIV quantity:0 health:0 price:6
+1-18-3 | [INFO] InsuranceRequestHandler
+1-18-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-18-11 | [INFO] InsuranceRequestHandler
+1-18-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-19-10 | [INFO] InsuranceRequestHandler
+1-19-10 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-19-27 | [INFO] TraderID: 0 - Customer: Survivor (2) - Category: Drinks - ClassName: Canteen - Quantity: 1000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 8 - CollateralMoney: 0 - TradeMode:Buy
+1-19-27 | [INFO] Player:Survivor (2) - currency amount:1981
+1-19-27 | [INFO] Transaction Buy Succeeded:Survivor (2) product:Canteen quantity:1000 health:0 price:8
+1-19-45 | [INFO] TraderID: 0 - Customer: Survivor (2) - Category: Medications - ClassName: TetracyclineAntibiotics - Quantity: 12 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 8 - CollateralMoney: 0 - TradeMode:Buy
+1-19-45 | [INFO] Player:Survivor (2) - currency amount:1973
+1-19-45 | [INFO] Transaction Buy Succeeded:Survivor (2) product:TetracyclineAntibiotics quantity:12 health:0 price:8
+1-19-48 | [INFO] TraderID: 0 - Customer: Survivor (2) - Category: Medications - ClassName: VitaminBottle - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6 - CollateralMoney: 0 - TradeMode:Buy
+1-19-48 | [INFO] Player:Survivor (2) - currency amount:1965
+1-19-48 | [INFO] Transaction Buy Succeeded:Survivor (2) product:VitaminBottle quantity:50 health:0 price:6
+1-21-3 | [INFO] InsuranceRequestHandler
+1-21-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-23-47 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: Patches - ClassName: MSFC_Velcro_Patch_Poland - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Buy
+1-23-47 | [INFO] Player:Survivor (2) - currency amount:1959
+1-23-47 | [INFO] Transaction Buy Succeeded:Survivor (2) product:MSFC_Velcro_Patch_Poland quantity:0 health:0 price:1
+1-24-33 | [INFO] InsuranceRequestHandler
+1-24-33 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-24-52 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: MMG Patches - ClassName: MMG_patch_rubber_poland - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 50 - CollateralMoney: 0 - TradeMode:Buy
+1-24-52 | [INFO] Player:Survivor (2) - currency amount:1958
+1-24-52 | [INFO] Transaction Buy Succeeded:Survivor (2) product:MMG_patch_rubber_poland quantity:0 health:0 price:50
+1-25-16 | [INFO] InsuranceRequestHandler
+1-25-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-29-49 | [INFO] GetSafeStatut
+1-29-57 | [INFO] InsuranceRequestHandler
+1-29-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-30-1 | [INFO] InsuranceRequestHandler
+1-30-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+1-31-51 | [INFO] InsuranceRequestHandler
+1-31-51 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+1-31-58 | [INFO] TraderID: 3 - Customer: Survivor - Category: Multicam Tropic - ClassName: MSFC_Pouches_Two_MulticamTropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+1-31-58 | [INFO] Player:Survivor - currency amount:3000
+1-31-58 | [INFO] Transaction Buy Failed:Survivor product:MSFC_Pouches_Two_MulticamTropic quantity:0 health:0 price:500
+1-32-9 | [INFO] InsuranceRequestHandler
+1-32-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+1-32-21 | [INFO] TraderID: 3 - Customer: Survivor - Category: Multicam Tropic - ClassName: MSFC_OPS_Core_MulticamTropic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+1-32-21 | [INFO] Player:Survivor - currency amount:3000
+1-32-21 | [INFO] Transaction Buy Failed:Survivor product:MSFC_OPS_Core_MulticamTropic quantity:0 health:0 price:500
+1-32-57 | [INFO] InsuranceRequestHandler
+1-32-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-33-6 | [INFO] InsuranceRequestHandler
+1-33-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+1-33-11 | [INFO] InsuranceRequestHandler
+1-33-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-33-29 | [INFO] TraderID: 2 - Customer: Survivor (2) - Category: Fire & Lights - ClassName: Matchbox - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6 - CollateralMoney: 0 - TradeMode:Buy
+1-33-29 | [INFO] Player:Survivor (2) - currency amount:1908
+1-33-29 | [INFO] Transaction Buy Succeeded:Survivor (2) product:Matchbox quantity:100 health:0 price:6
+1-33-34 | [INFO] TraderID: 2 - Customer: Survivor - Category: Hardware Supplies - ClassName: BarrelHoles_Yellow - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 800 - CollateralMoney: 0 - TradeMode:Buy
+1-33-34 | [INFO] Player:Survivor - currency amount:3000
+1-33-34 | [INFO] Transaction Buy Succeeded:Survivor product:BarrelHoles_Yellow quantity:0 health:0 price:800
+1-33-40 | [INFO] TraderID: 2 - Customer: Survivor (2) - Category: Cooking & Hunting Supplies - ClassName: Pot - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 25 - CollateralMoney: 0 - TradeMode:Buy
+1-33-40 | [INFO] Player:Survivor (2) - currency amount:1902
+1-33-40 | [INFO] Transaction Buy Succeeded:Survivor (2) product:Pot quantity:0 health:0 price:25
+1-33-41 | [INFO] TraderID: 2 - Customer: Survivor (2) - Category: Cooking & Hunting Supplies - ClassName: Tripod - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 35 - CollateralMoney: 0 - TradeMode:Buy
+1-33-41 | [INFO] Player:Survivor (2) - currency amount:1877
+1-33-41 | [INFO] Transaction Buy Succeeded:Survivor (2) product:Tripod quantity:0 health:0 price:35
+1-34-54 | [INFO] InsuranceRequestHandler
+1-34-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+1-35-0 | [INFO] TraderID: 2 - Customer: Survivor - Category: Fire & Lights - ClassName: Matchbox - Quantity: 100 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 6 - CollateralMoney: 0 - TradeMode:Buy
+1-35-0 | [INFO] Player:Survivor - currency amount:2200
+1-35-0 | [INFO] Transaction Buy Succeeded:Survivor product:Matchbox quantity:100 health:0 price:6
+1-35-11 | [INFO] InsuranceRequestHandler
+1-35-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-36-11 | [INFO] InsuranceRequestHandler
+1-36-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+1-36-24 | [INFO] TraderID: 2 - Customer: Survivor - Category: Hardware Supplies - ClassName: Barrel_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 350 - CollateralMoney: 0 - TradeMode:Sell
+1-36-24 | [INFO] Transaction Sell Succeeded:Survivor product:Barrel_Green quantity:0 health:0 price:350
+1-37-28 | [INFO] GetSafeStatut
+1-39-7 | [INFO] InsuranceRequestHandler
+1-39-7 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-40-9 | [INFO] GetEntitiesCleanUp
+1-40-13 | [INFO] InsuranceRequestHandler
+1-40-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-44-9 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: Multicam - ClassName: MSFC_OPS_Core_Multicam - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+1-44-9 | [INFO] Player:Survivor (2) - currency amount:1842
+1-44-9 | [INFO] Transaction Buy Succeeded:Survivor (2) product:MSFC_OPS_Core_Multicam quantity:0 health:0 price:500
+1-44-52 | [INFO] InsuranceRequestHandler
+1-44-52 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-44-56 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: Hats & Caps - ClassName: Ushanka_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 18 - CollateralMoney: 0 - TradeMode:Sell
+1-44-56 | [INFO] Transaction Sell Succeeded:Survivor (2) product:Ushanka_Green quantity:0 health:0 price:18
+1-48-48 | [INFO] InsuranceRequestHandler
+1-48-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-48-57 | [INFO] InsuranceRequestHandler
+1-48-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-49-35 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: SURPAT - ClassName: MSFC_OPS_Core_SURPAT - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+1-49-35 | [INFO] Player:Survivor (2) - currency amount:1360
+1-49-35 | [INFO] Transaction Buy Succeeded:Survivor (2) product:MSFC_OPS_Core_SURPAT quantity:0 health:0 price:500
+1-50-30 | [INFO] InsuranceRequestHandler
+1-50-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json
+1-50-33 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: SURPAT - ClassName: MSFC_OPS_Core_SURPAT - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Sell
+1-50-33 | [INFO] Transaction Sell Succeeded:Survivor (2) product:MSFC_OPS_Core_SURPAT quantity:0 health:0 price:250
+1-50-36 | [INFO] TraderID: 3 - Customer: Survivor (2) - Category: MMG Patches - ClassName: MMG_patch_rubber_poland - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 25 - CollateralMoney: 0 - TradeMode:Sell
+1-50-36 | [INFO] Transaction Sell Succeeded:Survivor (2) product:MMG_patch_rubber_poland quantity:0 health:0 price:25
+1-50-46 | [INFO] InsuranceRequestHandler
+1-50-46 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_30410516.json

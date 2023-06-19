@@ -1,0 +1,30 @@
+{
+    "Name": "Kraju",
+    "GUID": "76561199056563878",
+    "PlayerID": 3,
+    "Event": 0,
+    "PerkStaminaEXP": 442.1376953125,
+    "PerkSoftEXP": -0.0024999999441206457,
+    "PerkRoughEXP": 0.0012493324466049672,
+    "PerkResistanceColdEXP": 0.010550664737820626,
+    "PerkReputationEXP": 6000.0,
+    "PerkHuntingEXP": 0.0,
+    "PerkRadiationResistanceEXP": 0.0,
+    "PerkToxicResistanceEXP": 0.0,
+    "BestScore": 30000.0,
+    "SavedDNA": {
+        "StaminaEXP": 0.0,
+        "SpecialtySoftEXP": 0.0,
+        "SpecialtyRoughEXP": 0.0,
+        "ResistanceEXP": 0.0,
+        "ResistanceToxicEXP": 0.0,
+        "ResistanceColdEXP": 0.0,
+        "ReputationEXP": 0.0,
+        "HuntingEXP": 0.0
+    },
+    "ClanID": 3,
+    "Base_Owner": 0,
+    "Base_House": "",
+    "Base_Bed": 0,
+    "IsNewborn": 1
+}

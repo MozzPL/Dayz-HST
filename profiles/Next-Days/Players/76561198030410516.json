@@ -1,0 +1,30 @@
+{
+    "Name": "Survivor",
+    "GUID": "76561198030410516",
+    "PlayerID": 2,
+    "Event": 0,
+    "PerkStaminaEXP": 1285.27001953125,
+    "PerkSoftEXP": 0.0,
+    "PerkRoughEXP": 0.0,
+    "PerkResistanceColdEXP": 0.035917945206165317,
+    "PerkReputationEXP": 4750.0,
+    "PerkHuntingEXP": 0.0,
+    "PerkRadiationResistanceEXP": 0.0,
+    "PerkToxicResistanceEXP": 0.0,
+    "BestScore": 5000.0,
+    "SavedDNA": {
+        "StaminaEXP": 0.0,
+        "SpecialtySoftEXP": 0.0,
+        "SpecialtyRoughEXP": 0.0,
+        "ResistanceEXP": 0.0,
+        "ResistanceToxicEXP": 0.0,
+        "ResistanceColdEXP": 0.0,
+        "ReputationEXP": 0.0,
+        "HuntingEXP": 0.0
+    },
+    "ClanID": -1,
+    "Base_Owner": 0,
+    "Base_House": "",
+    "Base_Bed": 0,
+    "IsNewborn": 1
+}

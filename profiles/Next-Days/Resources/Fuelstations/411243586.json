@@ -1,0 +1,13 @@
+{
+    "IDE": 411243586,
+    "Location": "Pustoshka",
+    "Position": [
+        2990.539306640625,
+        343.2508544921875,
+        7467.2841796875
+    ],
+    "Ammount": 2000.0,
+    "AmmountMax": 10000.0,
+    "RefreshPerRestart": 4000.0,
+    "ChanceRefresh": 0.10000000149011612
+}

@@ -1,0 +1,83 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[2023-06-17 @ 21-24-38] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Berezino <11464.000000, 0.000000, 8908.000000>
+[EOnCallAirdrop] Drop zone offset to: <11445.871094, 2438.000000, 8902.380859>
+[EOnCallAirdrop] Aircraft spawn point: <7640.000000, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.93913° / 201.104°, Text: 'South (201°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Berezino' (7640/-1000), from the South (201°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-13-49] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <12434.383789, 8.224240, 9492.051758>
+[EOnCallAirdrop] Drop zone offset to: <12373.347656, 2438.000000, 9454.029297>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 4795.496582>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.80528° / 250.731°, Text: 'West (251°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (-1000/4795.5), from the West (251°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-17-13] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <12446.403320, 7.944471, 9462.208008>
+[EOnCallAirdrop] Drop zone offset to: <12368.184570, 2438.000000, 9401.250000>
+[EOnCallAirdrop] Aircraft spawn point: <15948.874023, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.24775° / 161.491°, Text: 'South (161°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (15948.9/-1000), from the South (161°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-20-07] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <12458.328125, 7.877752, 9467.686523>
+[EOnCallAirdrop] Drop zone offset to: <12422.859375, 2438.000000, 9528.428711>
+[EOnCallAirdrop] Aircraft spawn point: <7766.092773, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.16851° / 325.753°, Text: 'North/West (326°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (7766.09/16360), from the North/West (326°).
+[2023-06-17 @ 22-24-42] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <5106.582031, 2438.000000, 2577.131836>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 14841.589844>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.828477° / 42.5318°, Text: 'North/East (043°)'
+[EOnCallAirdrop] Aircraft was dispatched to 'Balota' (16360/14841.6), from the North/East (043°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-27-37] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <4609.943848, 10.410523, 2502.349609>
+[EOnCallAirdrop] Drop zone offset to: <4559.315918, 2438.000000, 2552.835938>
+[EOnCallAirdrop] Aircraft spawn point: <6948.609375, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.98205° / 146.267°, Text: 'South/East (146°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (6948.61/-1000), from the South/East (146°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-28-50] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <4639.633789, 9.656335, 2501.244385>
+[EOnCallAirdrop] Drop zone offset to: <4666.336426, 2438.000000, 2513.549805>
+[EOnCallAirdrop] Aircraft spawn point: <2370.066162, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.14592° / 212.952°, Text: 'South/West (213°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (2370.07/-1000), from the South/West (213°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-28-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <4642.175293, 9.786834, 2493.921143>
+[EOnCallAirdrop] Drop zone offset to: <4630.059082, 2438.000000, 2577.115967>
+[EOnCallAirdrop] Aircraft spawn point: <-836.291382, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.57387° / 237.472°, Text: 'South/West (237°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (-836.291/-1000), from the South/West (237°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-29-05] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <4655.084473, 10.318340, 2492.346191>
+[EOnCallAirdrop] Drop zone offset to: <4614.792480, 2438.000000, 2542.862305>
+[EOnCallAirdrop] Aircraft spawn point: <332.980133, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.46198° / 231.061°, Text: 'South/West (231°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (332.98/-1000), from the South/West (231°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[2023-06-17 @ 22-29-30] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <4671.428223, 11.154541, 2493.135010>
+[EOnCallAirdrop] Drop zone offset to: <4670.914551, 2438.000000, 2435.390137>
+[EOnCallAirdrop] Aircraft spawn point: <12069.668945, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.08069° / 28.0808°, Text: 'North/East (028°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (12069.7/16360), from the North/East (028°).

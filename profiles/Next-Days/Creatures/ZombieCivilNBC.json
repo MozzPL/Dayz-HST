@@ -1,0 +1,35 @@
+[
+    {
+        "Speed": 0,
+        "Armor": 0.20000000298023225,
+        "HeavyDamageBonus": 3.0,
+        "DamageBonus": 2.0,
+        "ChanceToBreakBone": 0.25,
+        "RadiationTouch": 3.0,
+        "ChemicalTouch": 3.0,
+        "HealingFactor": 1.0,
+        "ReputationBonus": 2.0
+    },
+    {
+        "Speed": 1,
+        "Armor": 0.4000000059604645,
+        "HeavyDamageBonus": 2.0,
+        "DamageBonus": 1.0,
+        "ChanceToBreakBone": 0.0,
+        "RadiationTouch": 2.0,
+        "ChemicalTouch": 2.0,
+        "HealingFactor": 1.0,
+        "ReputationBonus": 2.0
+    },
+    {
+        "Speed": 2,
+        "Armor": 0.0,
+        "HeavyDamageBonus": 1.0,
+        "DamageBonus": 0.0,
+        "ChanceToBreakBone": 0.0,
+        "RadiationTouch": 1.0,
+        "ChemicalTouch": 1.0,
+        "HealingFactor": 1.0,
+        "ReputationBonus": 1.0
+    }
+]

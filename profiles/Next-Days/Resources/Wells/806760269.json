@@ -1,0 +1,13 @@
+{
+    "IDE": 806760269,
+    "Location": "Polesovo",
+    "Position": [
+        5816.19189453125,
+        226.77003479003907,
+        13572.7119140625
+    ],
+    "Ammount": 15000.0,
+    "AmmountMax": 30000.0,
+    "RefreshPerRestart": 5000.0,
+    "ChanceRefresh": 0.5
+}

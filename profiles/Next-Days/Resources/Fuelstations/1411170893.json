@@ -1,0 +1,13 @@
+{
+    "IDE": 1411170893,
+    "Location": "Staroye",
+    "Position": [
+        10138.283203125,
+        230.9930877685547,
+        5210.8115234375
+    ],
+    "Ammount": 2000.0,
+    "AmmountMax": 10000.0,
+    "RefreshPerRestart": 4000.0,
+    "ChanceRefresh": 0.10000000149011612
+}

@@ -1,0 +1,13 @@
+{
+    "IDE": 1319154390,
+    "Location": "Gorka",
+    "Position": [
+        9464.361328125,
+        304.45892333984377,
+        8823.9375
+    ],
+    "Ammount": 26265.65625,
+    "AmmountMax": 30000.0,
+    "RefreshPerRestart": 5000.0,
+    "ChanceRefresh": 0.5
+}

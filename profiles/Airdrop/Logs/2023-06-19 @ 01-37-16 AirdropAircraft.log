@@ -1,0 +1,16 @@
+2023-06-19 @ 01-37-16:  [AirdropPlane] Aircraft created on 2023-06-19 @ 01-37-16
+2023-06-19 @ 01-37-16:  [InitializeAircraft] Aircraft Initialized: Elektrozavodsk @ 9371/2229 (true)
+2023-06-19 @ 01-37-38:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_PoliceWomanNormal @ <9389.495117, 42.895172, 2268.420654> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-37-59:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_ShortSkirt_checks @ <9341.222656, 41.862686, 2257.576416> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-38-21:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_JoggerSkinny_Blue @ <9382.366211, 34.091927, 2218.035156> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-38-43:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_ParamedicNormal_Green @ <9372.748047, 34.933254, 2220.970215> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-39-04:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_PolicemanSpecForce @ <9353.737305, 36.258488, 2225.568115> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-39-26:  [EOnSpawnZombies] Zombie Spawned [6] ZmbF_ShortSkirt_grey @ <9384.976563, 38.894920, 2244.274170> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-39-48:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_Jacket_greenchecks @ <9361.296875, 39.170952, 2241.516113> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-40-10:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_PolicemanSpecForce @ <9403.275391, 41.073139, 2259.753174> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-40-32:  [EOnSpawnZombies] Zombie Spawned [9] ZmbF_ShortSkirt_white @ <9364.976563, 37.236004, 2231.510742> ... Lifespan:  Set to 60 minutes.
+2023-06-19 @ 01-40-34:  [EOnBeforeDrop] The Aircraft is 1 Km from Elektrozavodsk, from the North/West (322°). @ <8439.943359, 218.606171, 3404.865479>
+2023-06-19 @ 01-40-52:  [EOnDrop] Drop spawned with 10 infected at <9316.823242, 207.199142, 2295.522949>.
+2023-06-19 @ 01-40-52:  [EOnDrop] Supplies have been dropped near Elektrozavodsk.
+2023-06-19 @ 01-41-47:  [EOnBeforeDelete] Aircraft despawned @ <11922.340820, 152.000610, -1000.726868>
+2023-06-19 @ 01-41-47:  [~AirdropPlane] Aircraft destroyed.

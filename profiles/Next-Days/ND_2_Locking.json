@@ -1,0 +1,7 @@
+{
+    "EnableLocking": 1,
+    "ForcerUnlockAllDoors": 0,
+    "ChanceToLockDoorAfterRestart": 0.0,
+    "RatioLockedDoors": 0.5,
+    "IncludingVehiclesWrecks": 0
+}

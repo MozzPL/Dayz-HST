@@ -1,0 +1,6 @@
+{
+    "MedicalTestReport": 1,
+    "FeverActive": 1,
+    "WoundInfectionChance": 0.5,
+    "ImmunityInfluenza": 1800
+}

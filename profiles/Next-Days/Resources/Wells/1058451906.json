@@ -1,0 +1,13 @@
+{
+    "IDE": 1058451906,
+    "Location": "Troitskoe",
+    "Position": [
+        7576.6240234375,
+        208.2803955078125,
+        13467.4501953125
+    ],
+    "Ammount": 30000.0,
+    "AmmountMax": 30000.0,
+    "RefreshPerRestart": 5000.0,
+    "ChanceRefresh": 0.5
+}

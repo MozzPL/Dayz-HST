@@ -1,0 +1,13 @@
+{
+    "IDE": 1495248027,
+    "Location": "Dubrovka Vyshnaya",
+    "Position": [
+        10737.6708984375,
+        145.63319396972657,
+        10790.92578125
+    ],
+    "Ammount": 2000.0,
+    "AmmountMax": 10000.0,
+    "RefreshPerRestart": 4000.0,
+    "ChanceRefresh": 0.10000000149011612
+}

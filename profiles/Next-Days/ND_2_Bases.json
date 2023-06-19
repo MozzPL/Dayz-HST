@@ -1,0 +1,148 @@
+{
+    "EnableNextDaysRaidMechanics": 1,
+    "EnableLifeTimeManagement": 1,
+    "EnableEstateMenus": 1,
+    "DisablePlacingObjectOutsideClaimedArea": 1,
+    "PlacingExceptions": [
+        "alp_PlotPole",
+        "alp_PlotPoleKit",
+        "Fireplace",
+        "TentBase",
+        "Container",
+        "BearTrap",
+        "LandMineTrap"
+    ],
+    "EnableRestrictedArea": 0,
+    "ShowRestrictedAreaOnMap": 0,
+    "LabelOfRestrictedArea": "Restricted area for building",
+    "RestrictedAreas": [
+        [
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            0.0
+        ]
+    ],
+    "TerritoryCurrency": [
+        {
+            "Point1": [
+                0,
+                0
+            ],
+            "Point2": [
+                15500,
+                7000
+            ],
+            "StockID": 100
+        },
+        {
+            "Point1": [
+                0,
+                7000
+            ],
+            "Point2": [
+                15500,
+                15500
+            ],
+            "StockID": 101
+        }
+    ],
+    "DisableNotfYouAreInEnemyTerritory": 1,
+    "EstateManagementMenu_blur": 0.5,
+    "EstateValuePerCubicMeter": 2000,
+    "BuildingTaxPerCubicMeterPerDay": 8,
+    "FingerprintLockValuePerDoor": 80000,
+    "LockProtectionValuePerDoor": 100000,
+    "DurableDoorsValuePerDoor": 100000,
+    "PriceOfHouseKey": 5000,
+    "PlotPoleTaxes": [
+        {
+            "Radius": 20,
+            "LevelRequirements": 0,
+            "Tax": 40000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 30,
+            "LevelRequirements": 2,
+            "Tax": 90000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 40,
+            "LevelRequirements": 4,
+            "Tax": 160000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 50,
+            "LevelRequirements": 6,
+            "Tax": 250000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 60,
+            "LevelRequirements": 8,
+            "Tax": 360000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 70,
+            "LevelRequirements": 10,
+            "Tax": 490000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 80,
+            "LevelRequirements": 12,
+            "Tax": 640000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 90,
+            "LevelRequirements": 14,
+            "Tax": 810000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 100,
+            "LevelRequirements": 16,
+            "Tax": 1000000.0,
+            "Validity": 14
+        },
+        {
+            "Radius": 110,
+            "LevelRequirements": 18,
+            "Tax": 1210000.0,
+            "Validity": 14
+        }
+    ],
+    "Raid_Picklock_Tier1": [
+        10.0,
+        0.20000000298023225,
+        0.10000000149011612,
+        0.25
+    ],
+    "Raid_Picklock_Tier2": [
+        20.0,
+        0.10000000149011612,
+        0.05000000074505806,
+        0.5
+    ],
+    "IsPossibleToBreakLockTier2": 1,
+    "Raid_TNT_OwnerIsON_Building_Door_Tier1": 0.5,
+    "Raid_TNT_OwnerIsON_Building_Door_Tier2": 0.25,
+    "Raid_TNT_OwnerIsOFF_Building_Door_Tier1": 0.20000000298023225,
+    "Raid_TNT_OwnerIsOFF_Building_Door_Tier2": 0.10000000149011612,
+    "Override_Raid_TNT_BaseBuilding": [
+        {
+            "Name": "Fence",
+            "OwnerON": 1.0,
+            "OwnerOFF": 0.5
+        }
+    ]
+}

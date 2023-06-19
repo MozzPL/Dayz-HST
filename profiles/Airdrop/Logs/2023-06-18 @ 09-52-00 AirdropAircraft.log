@@ -1,0 +1,16 @@
+2023-06-18 @ 09-52-00:  [AirdropPlane] Aircraft created on 2023-06-18 @ 09-52-00
+2023-06-18 @ 09-52-00:  [InitializeAircraft] Aircraft Initialized: Elektrozavodsk @ 9371/2229 (true)
+2023-06-18 @ 09-52-14:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_JoggerSkinny_Blue @ <9345.712891, 36.981804, 2229.419922> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-52-27:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PolicemanFat @ <9379.618164, 38.448200, 2240.629639> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-52-41:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_CitizenBSkinny @ <9333.874023, 36.039139, 2226.544434> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-52-55:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_CitizenBFat_Red @ <9331.379883, 36.772182, 2231.858398> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-53-09:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_DoctorFat @ <9387.133789, 31.111401, 2204.301025> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-53-23:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatientSkinny @ <9350.087891, 41.999111, 2257.741943> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-53-36:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_Jacket_grey @ <9377.756836, 38.018906, 2237.803711> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-53-50:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_ParamedicNormal_Red @ <9362.509766, 41.068123, 2253.030273> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-53-58:  [EOnBeforeDrop] The Aircraft is 1 Km from Elektrozavodsk, from the West (257°). @ <7907.635254, 152.000610, 1902.369751>
+2023-06-18 @ 09-54-04:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_SkaterYoung_Brown @ <9398.370117, 28.185177, 2189.798584> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-17:  [EOnDrop] Drop spawned with 10 infected at <9285.854492, 159.971344, 2209.931396>.
+2023-06-18 @ 09-54-17:  [EOnDrop] Supplies have been dropped near Elektrozavodsk.
+2023-06-18 @ 09-55-51:  [EOnBeforeDelete] Aircraft despawned @ <16361.463867, 152.000610, 3788.915283>
+2023-06-18 @ 09-55-51:  [~AirdropPlane] Aircraft destroyed.

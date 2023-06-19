@@ -1,0 +1,15 @@
+2023-06-17 @ 22-28-50:  [AirdropPlane] Aircraft created on 2023-06-17 @ 22-28-50
+2023-06-17 @ 22-28-50:  [InitializeAircraft] Aircraft Initialized: Player Called @ 4639.63/2501.24 (false)
+2023-06-17 @ 22-28-56:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_PatrolNormal_Flat @ <4637.700195, 9.937589, 2513.055420> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-01:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_Summer @ <4592.185547, 9.635197, 2489.692871> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-06:  [EOnDrop] Drop spawned with 10 infected at <3013.297119, 143.024094, -7.661608>.
+2023-06-17 @ 22-29-06:  [EOnDrop] Supplies have been dropped near the player's location.
+2023-06-17 @ 22-29-06:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_SoldierNormal @ <4662.389160, 10.625325, 2476.270020> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-12:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_Clerk_Normal_Red @ <4671.662109, 10.229770, 2467.883545> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-17:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_Jacket_black @ <4636.008789, 10.164070, 2497.713379> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-23:  [EOnSpawnZombies] Zombie Spawned [6] ZmbF_MilkMaidOld_Black @ <4593.741211, 10.021254, 2515.827881> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-28:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_HunterOld_Winter @ <4651.507813, 10.330546, 2475.984863> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-34:  [EOnSpawnZombies] Zombie Spawned [8] Animal_CanisLupus_White @ <4667.502441, 9.723391, 2460.198730> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-29-39:  [EOnSpawnZombies] Zombie Spawned [9] Animal_CanisLupus_White @ <4665.649902, 11.216917, 2496.878174> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-33-19:  [EOnBeforeDelete] Aircraft despawned @ <13625.462891, 290.618622, 16361.490234>
+2023-06-17 @ 22-33-19:  [~AirdropPlane] Aircraft destroyed.

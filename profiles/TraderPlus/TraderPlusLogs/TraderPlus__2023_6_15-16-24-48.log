@@ -1,0 +1,16 @@
+Creation Time: 2023_6_15-16-24-48
+16-24-48 | [INFO] TraderPlusCore - Started !
+16-24-48 | [INFO] TraderPlus file exist ! loading...
+16-24-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+16-24-48 | [INFO] TraderPlus file exist ! loading...
+16-24-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+16-24-48 | [INFO] TraderPlus file exist ! loading...
+16-24-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+16-24-48 | [INFO] TraderPlusServer - Started
+16-24-48 | [INFO] TraderPlusBankingCore - Started !
+16-24-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+16-24-48 | [INFO] TraderPlusBankingServer - Started
+16-24-48 | [INFO] CarLockCore - Started !
+16-24-48 | [INFO] CarLockServer - Started
+16-24-51 | [INFO] SafeZoneCore - Started !
+16-24-51 | [INFO] DEBUG MODE ENABLED

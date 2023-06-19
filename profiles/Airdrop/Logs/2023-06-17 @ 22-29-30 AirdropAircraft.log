@@ -1,0 +1,20 @@
+2023-06-17 @ 22-29-30:  [AirdropPlane] Aircraft created on 2023-06-17 @ 22-29-30
+2023-06-17 @ 22-29-30:  [InitializeAircraft] Aircraft Initialized: Player Called @ 4671.43/2493.14 (false)
+2023-06-17 @ 22-29-50:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_HikerSkinny_Green @ <4645.735840, 9.397710, 2460.245361> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-30-10:  [EOnSpawnZombies] Zombie Spawned [2] ZmbF_BlueCollarFat_Red @ <4645.559082, 10.203712, 2502.461914> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-30-31:  [EOnSpawnZombies] Zombie Spawned [3] Animal_CanisLupus_White @ <4689.872559, 10.968414, 2478.521973> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-30-51:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_PatrolNormal_Summer @ <4695.313965, 11.719335, 2494.570313> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-31-11:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_CitizenBFat_Blue @ <4691.427246, 11.533989, 2486.646240> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-31-32:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_ConstrWorkerNormal_Grey @ <4663.977539, 11.159513, 2490.519775> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-31-52:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_PatrolNormal_Autumn @ <4683.503906, 11.919791, 2519.144775> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-32-12:  [EOnSpawnZombies] Zombie Spawned [8] Animal_CanisLupus_White @ <4705.793945, 10.244953, 2470.925049> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-32-33:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_MotobikerFat_Blue @ <4679.447754, 11.644169, 2485.317871> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-32-34:  [EOnBeforeDrop] The Aircraft is 1 Km from called location, from the North/East (028°). @ <5376.211914, 321.128113, 3815.166016>
+2023-06-17 @ 22-32-52:  [EOnDrop] Drop spawned with 10 infected at <4714.131836, 160.507111, 2574.299805>.
+2023-06-17 @ 22-32-52:  [EOnDrop] Supplies have been dropped near the player's location.
+2023-06-17 @ 22-33-45:  [EOnBeforeDelete] Aircraft despawned @ <2806.905273, 152.000610, -1000.061340>
+2023-06-17 @ 22-33-45:  [EOnBeforeDelete] Aircraft despawned @ <2805.997070, 152.000610, -1001.763428>
+2023-06-17 @ 22-33-45:  [EOnBeforeDelete] Aircraft despawned @ <2805.088867, 152.000610, -1003.465515>
+2023-06-17 @ 22-33-45:  [EOnBeforeDelete] Aircraft despawned @ <2804.180664, 152.000610, -1005.167603>
+2023-06-17 @ 22-33-45:  [EOnBeforeDelete] Aircraft despawned @ <2803.272461, 152.000610, -1006.869690>
+2023-06-17 @ 22-33-45:  [~AirdropPlane] Aircraft destroyed.

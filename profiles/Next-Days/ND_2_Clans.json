@@ -1,0 +1,17 @@
+{
+    "EnableClans": 1,
+    "ShowIconsInTradeZone": 1,
+    "ClanMemberIconColor": [
+        255,
+        255,
+        0,
+        0
+    ],
+    "ShowNickDistance": 25.0,
+    "ShowIconDistance": 100.0,
+    "EnableCamera": 1,
+    "Enable3rdPersonCameraInVehicle": 1,
+    "Enable3rdPersonCameraAtHome": 1,
+    "Enable3rdPersonCameraAtSafeZone": 1,
+    "SplitQuestReward": 1
+}

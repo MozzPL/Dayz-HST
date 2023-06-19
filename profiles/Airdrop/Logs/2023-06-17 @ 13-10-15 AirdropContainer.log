@@ -1,0 +1,31 @@
+2023-06-17 @ 13-10-15:  [InitializeContainer] Winds: Vector <11.350194, 0.000000, 2.550357>, Speed 11.6332mps, Strength 0.1
+2023-06-17 @ 13-10-15:  [InitializeContainer] Parachute created on @ <13373.168945, 179.002960, 3148.834229>
+2023-06-17 @ 13-10-49:  [AirdropContainerFall] Airdrop Container Touchdown @ <13372.942383, 41.301178, 3149.144531>
+2023-06-17 @ 13-10-49:  [ADU_RemoveParachute] Parachute removed.
+2023-06-17 @ 13-10-49:  [ADU_RepositionContainer] Container repositioned.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2023-06-17 @ 13-10-49:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [1] AKM @ <13370.023438, 38.890240, 3149.588867> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [2] Mag_AKM_30Rnd @ <13372.854492, 37.655056, 3146.711182> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [3] Rice @ <13372.654297, 39.077446, 3150.606689> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [4] BakedBeansCan @ <13374.505859, 37.971458, 3148.193359> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [5] PowderedMilk @ <13373.581055, 38.950577, 3150.412598> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [6] AmmoBox_762x54_20Rnd @ <13371.215820, 38.043041, 3147.421143> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [7] PowderedMilk @ <13371.606445, 38.526691, 3148.873779> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [8] Vodka @ <13371.500977, 39.052147, 3150.309082> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Spawn failed for item [9] 'Mossin9130', does not exist in DayZ!
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [10] AmmoBox_762x39_20Rnd @ <13372.019531, 38.907314, 3150.033936> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [11] M4A1 @ <13374.806641, 37.999645, 3148.300537> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [12] PowderedMilk @ <13370.450195, 38.787823, 3149.383545> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [13] FNX45 @ <13375.529297, 38.293930, 3149.089844> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [14] PowderedMilk @ <13373.908203, 37.745136, 3147.366211> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [15] FNX45 @ <13374.252930, 37.946415, 3148.068604> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [16] WaterBottle @ <13374.278320, 37.537746, 3146.917236> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Spawn failed for item [17] 'Mossin9130', does not exist in DayZ!
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Spawn failed for item [18] 'Mossin9130', does not exist in DayZ!
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [19] Izh18 @ <13373.831055, 37.898476, 3147.772705> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  [ADU_SpawnItems] Loot Spawned [20] M4A1 @ <13372.442383, 39.216774, 3150.941650> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 13-10-49:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-17 @ 13-10-49:  [EOnSimulate] Airdrop Container deactivated.
+2023-06-17 @ 14-10-16:  [~AirdropContainerBase] Log file closed.
+2023-06-17 @ 14-10-16:  [~AirdropContainerBase] Container Destroyed.

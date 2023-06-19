@@ -1,0 +1,13 @@
+{
+    "IDE": 655309345,
+    "Location": "Pogorevka",
+    "Position": [
+        4728.9658203125,
+        282.6714782714844,
+        6377.1142578125
+    ],
+    "Ammount": 2000.0,
+    "AmmountMax": 10000.0,
+    "RefreshPerRestart": 4000.0,
+    "ChanceRefresh": 0.10000000149011612
+}

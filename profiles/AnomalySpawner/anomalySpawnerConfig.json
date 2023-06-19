@@ -1,0 +1,1324 @@
+{
+  "enableAnomalyOptimization": 1,
+  "worldSizeX": 15360,
+  "worldSizeY": 15360,
+  "spawnDistanceNearPlayer": 200, 
+  "updateTime": 10,
+  "enableAnomalyOrientation": 1,
+  "enableSpawnArtefacts": 1,
+  "spawnArtefactsType": 2,
+  "enableDebugLog": 1,
+  "Artefacts_Otklik":[ 
+    "DZRP_Artefact_Soul",
+    "DZRP_Artefact_NightStar",
+    "DZRP_Artefact_Meat",
+    "DZRP_Artefact_Medusa",
+    "DZRP_Artefact_Ice",
+    "DZRP_Artefact_Gravi",
+    "DZRP_Artefact_GoldFish",
+    "DZRP_Artefact_Kolobok",
+    "DZRP_Artefact_FireBall",
+    "DZRP_Artefact_Fire",
+    "DZRP_Artefact_Glaz",
+    "DZRP_Artefact_Sliz",
+	"DZRP_Artefact_MoonLight",
+	"DZRP_Artefact_Flash",
+	"DZRP_Artefact_MamaBus",
+	"DZRP_Artefact_Pusto",
+	"DZRP_Artefact_Battery",
+	"DZRP_Artefact_Oasis",
+	"DZRP_Artefact_StoneFlower",
+	"DZRP_Artefact_Cristall",
+	"DZRP_Artefact_Compas",
+	"DZRP_Artefact_Blood",
+	"DZRP_Artefact_Vyvert1",
+	"DZRP_Artefact_MutadeCompass"
+	],
+  "Artefacts_Bear": [
+    "DZRP_Artefact_Soul",
+    "DZRP_Artefact_NightStar",
+    "DZRP_Artefact_Meat",
+    "DZRP_Artefact_Medusa",
+    "DZRP_Artefact_Ice",
+    "DZRP_Artefact_Gravi",
+    "DZRP_Artefact_GoldFish",
+    "DZRP_Artefact_Kolobok",
+    "DZRP_Artefact_FireBall",
+    "DZRP_Artefact_Fire",
+    "DZRP_Artefact_Glaz",
+    "DZRP_Artefact_Sliz",
+	"DZRP_Artefact_MoonLight",
+	"DZRP_Artefact_Flash",
+	"DZRP_Artefact_MamaBus",
+	"DZRP_Artefact_Pusto",
+	"DZRP_Artefact_Battery",
+	"DZRP_Artefact_Oasis",
+	"DZRP_Artefact_StoneFlower",
+	"DZRP_Artefact_Cristall",
+	"DZRP_Artefact_Compas",
+	"DZRP_Artefact_Blood",
+	"DZRP_Artefact_Vyvert1",
+	"DZRP_Artefact_MutadeCompass"
+	],
+  "ArtefactsSpawnData": [
+    {
+      "AnomalyName": "Jarka",
+      "SpawnChancePercent": 99.5,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "DZRP_Artefact_Soul",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_NightStar",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Meat",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Medusa",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Ice",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Gravi",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_GoldFish",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Kolobok",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_FireBall",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Fire",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Glaz",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MoonLight",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Flash",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MamaBus",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Pusto",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Battery",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Oasis",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Cristall",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Compas",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Blood",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+				"ArtefactSpawnChancePercent": 50
+			}
+		]
+    },
+    {
+      "AnomalyName": "Electra",
+      "SpawnChancePercent": 99.5,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "DZRP_Artefact_Soul",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_NightStar",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Meat",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Medusa",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Ice",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Gravi",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_GoldFish",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Kolobok",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_FireBall",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Fire",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Glaz",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MoonLight",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Flash",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MamaBus",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Pusto",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Battery",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Oasis",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Cristall",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Compas",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Blood",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+				"ArtefactSpawnChancePercent": 50
+			}
+		]
+    },
+    {
+      "AnomalyName": "Kisel",
+      "SpawnChancePercent": 99.5,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "DZRP_Artefact_Soul",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_NightStar",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Meat",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Medusa",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Ice",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Gravi",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_GoldFish",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Kolobok",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_FireBall",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Fire",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Glaz",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MoonLight",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Flash",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MamaBus",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Pusto",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Battery",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Oasis",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Cristall",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Compas",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Blood",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+				"ArtefactSpawnChancePercent": 50
+			}
+		]
+    },
+    {
+      "AnomalyName": "Tramplin",
+      "SpawnChancePercent": 99.5,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "DZRP_Artefact_Soul",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_NightStar",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Meat",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Medusa",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Ice",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Gravi",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_GoldFish",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Kolobok",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_FireBall",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Fire",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Glaz",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MoonLight",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Flash",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MamaBus",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Pusto",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Battery",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Oasis",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Cristall",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Compas",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Blood",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+				"ArtefactSpawnChancePercent": 50
+			}
+		]
+    },
+    {
+      "AnomalyName": "Par",
+      "SpawnChancePercent": 99.5,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "DZRP_Artefact_Soul",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_NightStar",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Meat",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Medusa",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Ice",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Gravi",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_GoldFish",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Kolobok",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_FireBall",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Fire",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Glaz",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MoonLight",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Flash",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MamaBus",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Pusto",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Battery",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Oasis",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Cristall",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Compas",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Blood",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+				"ArtefactSpawnChancePercent": 50
+			}
+		]
+    },
+    {
+      "AnomalyName": "Teleport",
+      "SpawnChancePercent": 99.5,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "DZRP_Artefact_Soul",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_NightStar",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Meat",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Medusa",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Ice",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Gravi",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_GoldFish",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Kolobok",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_FireBall",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Fire",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Glaz",
+				"ArtefactSpawnChancePercent": 80
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MoonLight",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Flash",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MamaBus",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Pusto",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Battery",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Oasis",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Cristall",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Compas",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Blood",
+				"ArtefactSpawnChancePercent": 70
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+				"ArtefactSpawnChancePercent": 50
+			},
+			{
+				"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+				"ArtefactSpawnChancePercent": 50
+			}
+		]
+    }
+  ],
+  "teleportAnomaly": [
+	{
+      "anomalyPosition": [13387.557617, 5.992160, 5520.657227],
+      "teleportType": 1,
+      "teleportToPositions":[
+        [13384.737305, 5.875772, 6000.976563],
+        [13500.737305, 5.875772, 5335.976563],
+        [13400.737305, 5.875772, 5350.976563]
+		],
+		"ArtefactsWithoutDetector": {
+			"SpawnChancePercent": 0.01,
+			"SpawnDistance_Min": 2.0,
+			"SpawnDistance_Max": 5.0,
+			"ArtefactsData": [
+				{
+					"ArtefactClassName": "ART_Medusa",
+					"ArtefactSpawnChancePercent": 75
+				},
+				{
+					"ArtefactClassName": "ART_Soul",
+					"ArtefactSpawnChancePercent": 25
+				}
+			]
+		}
+    },
+    {
+      "anomalyPosition": [13384.737305, 5.875772, 5335.976563],
+      "teleportType": 1,
+      "teleportToPositions":[
+        [13387.557617, 5.992160, 5520.657227]
+		],
+		"ArtefactsWithoutDetector": {
+			"SpawnChancePercent": 0.01,
+			"SpawnDistance_Min": 2.0,
+			"SpawnDistance_Max": 5.0,
+			"ArtefactsData": [
+				{
+					"ArtefactClassName": "ART_Medusa",
+					"ArtefactSpawnChancePercent": 75
+				},
+				{
+					"ArtefactClassName": "ART_Soul",
+					"ArtefactSpawnChancePercent": 25
+				}
+			]
+		}
+    }
+  ],
+  "staticAnomaly": [
+    {
+      "_comment": "Static Anomaly Zone #1",
+      "anomalyName": "Jarka",
+      "anomalyPosition":[
+        [0, 0, 0],
+        [0, 0, 0],
+        [0, 0, 0]
+		],
+	"ArtefactsWithoutDetector": {
+		"SpawnChancePercent": 0.01,
+		"SpawnDistance_Min": 2.0,
+		"SpawnDistance_Max": 5.0,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "ART_Medusa",
+				"ArtefactSpawnChancePercent": 75
+			},
+			{
+				"ArtefactClassName": "ART_Soul",
+				"ArtefactSpawnChancePercent": 25
+			}
+		]
+	}
+    },
+    {
+        "_comment": "Static Anomaly Zone #2",
+        "anomalyName": "Kisel",
+        "anomalyPosition":[
+          [0, 0, 0],
+          [0, 0, 0],
+          [0, 0, 0]
+		  ],
+	"ArtefactsWithoutDetector": {
+		"SpawnChancePercent": 0.01,
+		"SpawnDistance_Min": 2.0,
+		"SpawnDistance_Max": 5.0,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "ART_Medusa",
+				"ArtefactSpawnChancePercent": 75
+			},
+			{
+				"ArtefactClassName": "ART_Soul",
+				"ArtefactSpawnChancePercent": 25
+			}
+		]
+	}
+    },
+    {
+        "_comment": "Static Anomaly Zone #3",
+        "anomalyName": "Par",
+        "anomalyPosition":[
+          [0, 0, 0],
+          [0, 0, 0],
+          [0, 0, 0]
+        ],
+	"ArtefactsWithoutDetector": {
+		"SpawnChancePercent": 0.01,
+		"SpawnDistance_Min": 2.0,
+		"SpawnDistance_Max": 5.0,
+		"ArtefactsData": [
+			{
+				"ArtefactClassName": "ART_Medusa",
+				"ArtefactSpawnChancePercent": 75
+			},
+			{
+				"ArtefactClassName": "ART_Soul",
+				"ArtefactSpawnChancePercent": 25
+			}
+		]
+	}
+    }
+  ],
+  "dynamicAnomaly": [
+    {
+        "_comment": "Alien Research Bunker",
+        "zoneType": "Box",
+        "zonePosition": [7680, 0, 7680],
+        "zoneRadius": 7680,
+        "distanceBTWAnomaly": 30,
+        "checkGeometry": 1,
+        "anomalyData": [
+          {
+            "anomalyName":"Jarka",
+            "anomalyCount": 5,
+			"ArtefactsWithoutDetector": {
+				"SpawnChancePercent": 1.0,
+				"SpawnDistance_Min": 2.0,
+				"SpawnDistance_Max": 5.0,
+				"ArtefactsData": [
+					{
+						"ArtefactClassName": "DZRP_Artefact_Soul",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_NightStar",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Meat",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Medusa",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Ice",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Gravi",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_GoldFish",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Kolobok",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_FireBall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Fire",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Glaz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Sliz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MoonLight",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Flash",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MamaBus",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Pusto",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Battery",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Oasis",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Cristall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Compas",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Blood",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+						"ArtefactSpawnChancePercent": 5
+					}
+				]
+			}
+          },
+          {
+            "anomalyName":"Par",
+            "anomalyCount": 5,
+			"ArtefactsWithoutDetector": {
+				"SpawnChancePercent": 1.0,
+				"SpawnDistance_Min": 2.0,
+				"SpawnDistance_Max": 5.0,
+				"ArtefactsData": [
+					{
+						"ArtefactClassName": "DZRP_Artefact_Soul",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_NightStar",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Meat",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Medusa",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Ice",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Gravi",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_GoldFish",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Kolobok",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_FireBall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Fire",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Glaz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Sliz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MoonLight",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Flash",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MamaBus",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Pusto",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Battery",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Oasis",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Cristall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Compas",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Blood",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+						"ArtefactSpawnChancePercent": 5
+					}
+				]
+			}
+          },
+          {
+            "anomalyName":"Electra",
+            "anomalyCount": 5,
+			"ArtefactsWithoutDetector": {
+				"SpawnChancePercent": 1.0,
+				"SpawnDistance_Min": 2.0,
+				"SpawnDistance_Max": 5.0,
+				"ArtefactsData": [
+					{
+						"ArtefactClassName": "DZRP_Artefact_Soul",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_NightStar",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Meat",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Medusa",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Ice",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Gravi",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_GoldFish",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Kolobok",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_FireBall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Fire",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Glaz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Sliz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MoonLight",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Flash",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MamaBus",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Pusto",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Battery",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Oasis",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Cristall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Compas",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Blood",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+						"ArtefactSpawnChancePercent": 5
+					}
+				]
+			}
+          },
+          {
+            "anomalyName":"Tramplin",
+            "anomalyCount": 5,
+			"ArtefactsWithoutDetector": {
+				"SpawnChancePercent": 1.0,
+				"SpawnDistance_Min": 2.0,
+				"SpawnDistance_Max": 5.0,
+				"ArtefactsData": [
+					{
+						"ArtefactClassName": "DZRP_Artefact_Soul",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_NightStar",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Meat",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Medusa",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Ice",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Gravi",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_GoldFish",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Kolobok",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_FireBall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Fire",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Glaz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Sliz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MoonLight",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Flash",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MamaBus",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Pusto",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Battery",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Oasis",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Cristall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Compas",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Blood",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+						"ArtefactSpawnChancePercent": 5
+					}
+				]
+			}
+          },
+          {
+            "anomalyName":"Kisel",
+            "anomalyCount": 5,
+			"ArtefactsWithoutDetector": {
+				"SpawnChancePercent": 1.0,
+				"SpawnDistance_Min": 2.0,
+				"SpawnDistance_Max": 5.0,
+				"ArtefactsData": [
+					{
+						"ArtefactClassName": "DZRP_Artefact_Soul",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_NightStar",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Meat",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Medusa",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Ice",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Gravi",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_GoldFish",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Kolobok",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_FireBall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Fire",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Glaz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Sliz",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MoonLight",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Flash",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MamaBus",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Pusto",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Battery",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Oasis",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_StoneFlower",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Cristall",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Compas",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Blood",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_Vyvert1",
+						"ArtefactSpawnChancePercent": 5
+					},
+					{
+						"ArtefactClassName": "DZRP_Artefact_MutadeCompass",
+						"ArtefactSpawnChancePercent": 5
+					}
+				]
+			}
+          }
+
+        ]
+    }
+   
+  ]
+}

@@ -1,0 +1,31 @@
+2023-06-17 @ 22-21-55:  [InitializeContainer] Winds: Vector <0.016324, 0.000000, -0.018935>, Speed 0.025mps, Strength 0.1
+2023-06-17 @ 22-21-55:  [InitializeContainer] Parachute created on @ <12419.143555, 153.422546, 9526.596680>
+2023-06-17 @ 22-22-28:  [AirdropContainerFall] Airdrop Container Touchdown @ <12419.143555, 18.422409, 9526.596680>
+2023-06-17 @ 22-22-28:  [ADU_RemoveParachute] Parachute removed.
+2023-06-17 @ 22-22-28:  [ADU_RepositionContainer] Container repositioned.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2023-06-17 @ 22-22-28:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [1] WaterBottle @ <12420.417969, 7.893281, 9525.603516> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [2] AmmoBox_762x54_20Rnd @ <12417.469727, 8.031984, 9528.448242> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [3] M4A1 @ <12417.285156, 8.011549, 9527.950195> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [4] Rice @ <12417.658203, 7.972729, 9524.955078> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [5] WaterBottle @ <12416.291016, 8.044196, 9526.553711> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [6] Vodka @ <12418.080078, 8.042125, 9528.790039> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [7] WaterBottle @ <12417.611328, 8.018079, 9528.158203> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Spawn failed for item [8] 'Mossin9130', does not exist in DayZ!
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [9] Mag_AKM_30Rnd @ <12417.303711, 7.990609, 9525.307617> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [10] Vodka @ <12419.293945, 8.024155, 9528.602539> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [11] M4A1 @ <12419.180664, 7.985425, 9527.701172> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [12] Mag_STANAG_30Rnd @ <12419.120117, 7.903693, 9525.375977> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [13] AmmoBox_762x54_20Rnd @ <12418.465820, 7.934491, 9525.219727> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [14] Vodka @ <12420.229492, 7.939973, 9526.733398> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [15] AmmoBox_762x39_20Rnd @ <12418.286133, 7.950258, 9523.995117> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [16] AmmoBox_762x54_20Rnd @ <12418.212891, 7.972661, 9527.235352> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [17] WaterBottle @ <12420.270508, 7.939464, 9526.707031> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [18] Izh18 @ <12417.416016, 7.988068, 9526.012695> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [19] Mag_AKM_30Rnd @ <12420.665039, 7.875983, 9524.825195> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  [ADU_SpawnItems] Loot Spawned [20] Mag_AKM_30Rnd @ <12418.335938, 7.944428, 9524.427734> ... Lifespan:  Set to 60 minutes.
+2023-06-17 @ 22-22-28:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-17 @ 22-22-28:  [EOnSimulate] Airdrop Container deactivated.
+2023-06-17 @ 23-21-56:  [~AirdropContainerBase] Log file closed.
+2023-06-17 @ 23-21-56:  [~AirdropContainerBase] Container Destroyed.

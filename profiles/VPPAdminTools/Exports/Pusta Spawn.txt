@@ -1,0 +1,30 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "bldr_prop_Fireplace", "9144.540039 223.414993 3806.850098", "1.000209 0.034971 0.066434" );
+SpawnObject( "SFP_StalkerGitaraP2_NPC", "9141.830078 227.166000 3808.860107", "-89.270317 -2.735738 0.352337" );
+SpawnObject( "SFP_Stalker_Mangal_voice", "9149.500000 223.901001 3803.370117", "91.096420 0.000000 -0.000000" );
+SpawnObject( "SFP_GologenLamp", "9152.780273 227.003998 3804.500000", "-83.925293 0.000000 0.000000" );
+SpawnObject( "SFP_NPC_Lesnik_Voice", "9154.429688 224.184006 3803.459961", "89.104713 0.000000 -0.000000" );
+SpawnObject( "StaticObj_Furniture_foldingbed_matress", "9154.919922 223.113998 3806.389893", "39.443348 -0.017485 0.021605" );
+SpawnObject( "bldr_prop_SeaChest", "9151.709961 223.408005 3802.610107", "92.099449 -0.027976 -0.001025" );
+SpawnObject( "StaticObj_Furniture_lobby_table", "9142.139648 223.369995 3807.550049", "-84.664024 0.000000 0.000000" );
+SpawnObject( "bldr_Mp133Shotgun", "9142.169922 223.912994 3807.580078", "-3.765249 -87.389626 -92.005745" );
+SpawnObject( "SFP_LightLamp_WodStolb2", "9140.230469 221.690002 3802.070068", "54.364910 0.000000 -0.000000" );
+SpawnObject( "alp_vodkabottles", "9142.320313 224.041000 3807.129883", "3.081129 2.182691 -0.095726" );
+SpawnObject( "vbldr_cigarette_pack", "9142.410156 223.901993 3808.000000", "-0.216818 -0.006994 0.020982" );
+SpawnObject( "SFP_Crow_sound", "9141.650391 224.798996 3805.760010", "-55.422997 0.000000 0.000000" );
+SpawnObject( "SFP_Lampatka_static", "9144.589844 223.487000 3806.850098", "0.000000 0.000000 -0.000000" );
+SpawnObject( "SFP_USSR_Radio_Sound", "9153.669922 224.311996 3808.020020", "0.000000 0.000000 -0.000000" );
+SpawnObject( "SFP_LightLamp_Only1", "9133.879883 226.889008 3805.510010", "0.000000 0.000000 -0.000000" );
+SpawnObject( "SFP_DeadBodySkined_Rope", "9141.040039 227.757996 3800.899902", "0.000000 0.000000 -0.000000" );
+SpawnObject( "SFP_DeadBodyBasic2_SeatCrow", "9147.540039 223.826004 3801.280029", "0.000000 0.000000 -0.000000" );

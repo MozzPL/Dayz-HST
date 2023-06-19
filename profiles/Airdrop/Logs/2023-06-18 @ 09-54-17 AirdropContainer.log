@@ -1,0 +1,31 @@
+2023-06-18 @ 09-54-17:  [InitializeContainer] Winds: Vector <17.277063, 0.000000, 10.074862>, Speed 20mps, Strength 0.1
+2023-06-18 @ 09-54-17:  [InitializeContainer] Parachute created on @ <9285.854492, 159.971344, 2209.931396>
+2023-06-18 @ 09-54-48:  [AirdropContainerFall] Airdrop Container Touchdown @ <9285.854492, 33.070847, 2210.241211>
+2023-06-18 @ 09-54-48:  [ADU_RemoveParachute] Parachute removed.
+2023-06-18 @ 09-54-48:  [ADU_RepositionContainer] Container repositioned.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2023-06-18 @ 09-54-48:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [1] FNX45 @ <9287.164063, 30.283451, 2209.970215> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [2] LandMineTrap @ <9284.944336, 30.400175, 2211.231201> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [3] Mosin9130 @ <9285.708008, 30.638771, 2212.156738> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [4] Mag_AKM_30Rnd @ <9283.672852, 29.935457, 2209.428223> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [5] LargeTent @ <9287.221680, 30.226208, 2209.668457> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [6] LargeTent @ <9286.052734, 30.636768, 2212.029053> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [7] TTSKOPants @ <9284.021484, 29.840649, 2208.818848> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [8] TacticalBaconCan @ <9284.353516, 29.776197, 2208.366943> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [9] Mag_AKM_30Rnd @ <9284.151367, 29.690823, 2208.022949> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [10] Mag_STANAG_30Rnd @ <9284.924805, 29.785864, 2208.187988> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [11] LargeTent @ <9286.351563, 30.047613, 2209.046387> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [12] Mag_AKM_30Rnd @ <9285.238281, 30.805832, 2213.128906> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Spawn failed for item [13] 'PlateCarrierComplete', does not exist in DayZ!
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [14] AmmoBox_762x39_20Rnd @ <9288.649414, 30.528997, 2210.631104> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [15] AKM @ <9284.648438, 30.721966, 2212.954834> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [16] Mag_AKM_30Rnd @ <9288.554688, 30.351604, 2209.832275> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [17] FNX45 @ <9286.443359, 30.681255, 2212.103271> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [18] FNX45 @ <9285.219727, 30.045027, 2209.378174> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [19] Mag_AKM_30Rnd @ <9285.971680, 30.856714, 2213.114746> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  [ADU_SpawnItems] Loot Spawned [20] AKM @ <9285.509766, 29.679096, 2207.472412> ... Lifespan:  Set to 60 minutes.
+2023-06-18 @ 09-54-48:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-18 @ 09-54-48:  [EOnSimulate] Airdrop Container deactivated.
+2023-06-18 @ 10-54-18:  [~AirdropContainerBase] Log file closed.
+2023-06-18 @ 10-54-18:  [~AirdropContainerBase] Container Destroyed.

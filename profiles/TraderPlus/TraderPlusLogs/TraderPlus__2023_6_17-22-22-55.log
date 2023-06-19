@@ -1,0 +1,507 @@
+Creation Time: 2023_6_17-22-22-55
+22-22-55 | [INFO] TraderPlusCore - Started !
+22-22-55 | [INFO] TraderPlus file exist ! loading...
+22-22-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusGeneralConfig.json
+22-22-55 | [INFO] TraderPlus file exist ! loading...
+22-22-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusVehiclesConfig.json
+22-22-55 | [INFO] TraderPlus file exist ! loading...
+22-22-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+22-22-55 | [INFO] TraderPlus file exist ! loading...
+22-22-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusIDsConfig.json
+22-22-55 | [INFO] TraderPlus file exist ! loading...
+22-22-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusInsuranceConfig.json
+22-22-55 | [INFO] TraderPlus file exist ! loading...
+22-22-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusPriceConfig.json
+22-22-56 | [INFO] TraderPlusServer - Started
+22-22-56 | [INFO] TraderPlusBankingCore - Started !
+22-22-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusConfig\TraderPlusBankingConfig.json
+22-22-56 | [INFO] TraderPlusBankingServer - Started
+22-22-56 | [INFO] CarLockCore - Started !
+22-22-56 | [INFO] CarLockServer - Started
+22-23-1 | [INFO] SafeZoneCore - Started !
+22-23-1 | [INFO] DEBUG MODE ENABLED
+22-24-37 | [INFO] ID_count: 5
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Licences.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Vegetables.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Animal Parts.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Mutant Parts.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Drinks.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Medical Supplies.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Medications.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Money Exchange.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Melee.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sidearms.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Rifles.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Shotguns.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Submachine Guns.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Assault Rifles.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sniper Rifles.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Grenades.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Ammunition.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Magazines.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Handguards.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Buttstocks.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Optics.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Supressors.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Compensators.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Bayonets.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Weapons 1.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Weapons 2.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Scopes.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU HandGuards.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Stocks.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Suppressors.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Bipods.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Attachments.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Ammo.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\SNAFU Grips.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Flashlights.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Tools.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Heavy Tools.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Electronics.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Furniture.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Fire & Lights.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Cooking & Hunting Supplies.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Hardware Supplies.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Seeds & Lime.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Glasses.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Armbands.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Gloves.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Hats & Caps.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Helmets.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Masks.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Shirts.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Hoodies & Sweater.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Vests.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Jackets & Coats.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Skirts & Dresses.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Pants.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Shoes & Boots.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Ghillie.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Holster & Pouches.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Belt.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Bags.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\ATACS AU.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\ATACS FG.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam Black.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam Snow.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Multicam Tropic.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\SURPAT.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG NBC gear.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG goggles.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Sniper Boonie.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Chest Rig.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Plate Carriers.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Tactical-TEC Vest.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG MK-III Armor.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Pouches.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Backpacks.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Belt.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Helmets.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Helmet Attachments.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Holster.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Sheath.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Bottle.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG MMG Carbine.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Combatpants.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Tactical Pants.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Combatshirt.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Operator Shirt.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Tactical Shirt.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMMG Tactical Gloves.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Jungle Boots.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Facemask.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Balaclava.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Heavy Armour.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\MMG Patches.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Patches.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vehicles.json
+22-24-37 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Vehicle Parts.json
+22-24-37 | [INFO] SetTradersSpawner: Started
+22-24-37 | [INFO] obj created: TraderPlusSign
+22-24-37 | [INFO] TraderStatic created and added!: 
+22-24-37 | [INFO] obj created: SurvivorM_Jose
+22-24-37 | [INFO] TraderPlayer created and added!: 
+22-24-37 | [INFO] obj created: TraderPlusSign
+22-24-37 | [INFO] TraderStatic created and added!: 
+22-24-37 | [INFO] obj created: SurvivorM_Peter
+22-24-37 | [INFO] TraderPlayer created and added!: 
+22-24-37 | [INFO] obj created: TraderPlusSign
+22-24-37 | [INFO] TraderStatic created and added!: 
+22-24-37 | [INFO] obj created: TraderPlus_BANK_ATM
+22-24-37 | [INFO] TraderStatic created and added!: 
+22-24-37 | [INFO] SetTradersSpawner: Ended
+22-24-37 | [INFO] SetObjectSpawner: Started
+22-24-37 | [INFO] SetObjectSpawner: Ended
+22-24-37 | [INFO] DefaultTraderStock - Started
+22-31-27 | [INFO] GetSafeStatut
+22-32-6 | [INFO] InsuranceRequestHandler
+22-32-6 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-33-1 | [INFO] InsuranceRequestHandler
+22-33-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-33-31 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Tactical Shirt - ClassName: MMG_tactical_shirt_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-33-31 | [INFO] Player:Mozz - currency amount:20000
+22-33-31 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_tactical_shirt_ucp quantity:0 health:0 price:500
+22-33-40 | [INFO] InsuranceRequestHandler
+22-33-40 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-33-52 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Combatshirt - ClassName: MMG_combatshirt_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-33-52 | [INFO] Player:Mozz - currency amount:19500
+22-33-52 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_combatshirt_ucp quantity:0 health:0 price:500
+22-34-9 | [INFO] InsuranceRequestHandler
+22-34-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-34-12 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Tactical Shirt - ClassName: MMG_tactical_shirt_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Sell
+22-34-12 | [INFO] Transaction Sell Succeeded:Mozz product:MMG_tactical_shirt_ucp quantity:0 health:0 price:250
+22-34-29 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Combatpants - ClassName: MMG_combatpants_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-34-29 | [INFO] Player:Mozz - currency amount:19250
+22-34-29 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_combatpants_ucp quantity:0 health:0 price:500
+22-34-49 | [INFO] InsuranceRequestHandler
+22-34-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-34-58 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Tactical Pants - ClassName: mmg_tactical_pants_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-34-58 | [INFO] Player:Mozz - currency amount:18750
+22-34-58 | [INFO] Transaction Buy Succeeded:Mozz product:mmg_tactical_pants_ucp quantity:0 health:0 price:500
+22-35-13 | [INFO] InsuranceRequestHandler
+22-35-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-35-16 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Combatpants - ClassName: MMG_combatpants_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Sell
+22-35-16 | [INFO] Transaction Sell Succeeded:Mozz product:MMG_combatpants_ucp quantity:0 health:0 price:250
+22-35-17 | [INFO] InsuranceRequestHandler
+22-35-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-35-38 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Jungle Boots - ClassName: MMG_boots_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-35-38 | [INFO] Player:Mozz - currency amount:18500
+22-35-38 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_boots_ucp quantity:0 health:0 price:500
+22-35-49 | [INFO] InsuranceRequestHandler
+22-35-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-36-6 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Plate Carriers - ClassName: MMG_JPC_Vest_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Buy
+22-36-6 | [INFO] Player:Mozz - currency amount:18000
+22-36-6 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_JPC_Vest_ucp quantity:0 health:0 price:2000
+22-36-16 | [INFO] InsuranceRequestHandler
+22-36-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-36-26 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Backpacks - ClassName: MMG_assault_pack_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3000 - CollateralMoney: 0 - TradeMode:Buy
+22-36-26 | [INFO] Player:Mozz - currency amount:16000
+22-36-26 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_assault_pack_ucp quantity:0 health:0 price:3000
+22-36-28 | [INFO] InsuranceRequestHandler
+22-36-28 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-36-41 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: MMG_triple_magpouch_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-36-41 | [INFO] Player:Mozz - currency amount:13000
+22-36-41 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_triple_magpouch_ucp quantity:0 health:0 price:500
+22-36-53 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: MMG_Med_Pouch_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-36-53 | [INFO] Player:Mozz - currency amount:12500
+22-36-53 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_Med_Pouch_ucp quantity:0 health:0 price:500
+22-37-1 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: mmg_dump_pouch_tan - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-37-1 | [INFO] Player:Mozz - currency amount:12000
+22-37-1 | [INFO] Transaction Buy Succeeded:Mozz product:mmg_dump_pouch_tan quantity:0 health:0 price:500
+22-37-6 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: MMG_ammo_pouch_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-37-6 | [INFO] Player:Mozz - currency amount:11500
+22-37-6 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_ammo_pouch_ucp quantity:0 health:0 price:500
+22-37-24 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: MMG_tactical_pouch_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-37-24 | [INFO] Player:Mozz - currency amount:11000
+22-37-24 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_tactical_pouch_ucp quantity:0 health:0 price:500
+22-37-49 | [INFO] InsuranceRequestHandler
+22-37-49 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-37-58 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Sheath - ClassName: MMG_sheath_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-37-58 | [INFO] Player:Mozz - currency amount:10500
+22-37-58 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_sheath_ucp quantity:0 health:0 price:500
+22-38-11 | [INFO] InsuranceRequestHandler
+22-38-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-38-51 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Belt - ClassName: MMG_falcon_b1_belt_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1000 - CollateralMoney: 0 - TradeMode:Buy
+22-38-51 | [INFO] Player:Mozz - currency amount:10000
+22-38-51 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_falcon_b1_belt_ucp quantity:0 health:0 price:1000
+22-39-4 | [INFO] InsuranceRequestHandler
+22-39-4 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-39-17 | [INFO] GetEntitiesCleanUp
+22-39-17 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Bottle - ClassName: MMG_bottle_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-39-17 | [INFO] Player:Mozz - currency amount:9000
+22-39-18 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_bottle_ucp quantity:0 health:0 price:500
+22-39-44 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Holster - ClassName: MMG_Holster_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-39-44 | [INFO] Player:Mozz - currency amount:8500
+22-39-44 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_Holster_ucp quantity:0 health:0 price:500
+22-40-30 | [INFO] InsuranceRequestHandler
+22-40-30 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-40-48 | [INFO] TraderID: 3 - Customer: Mozz - Category: Gloves - ClassName: OMNOGloves_Brown - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 40 - CollateralMoney: 0 - TradeMode:Buy
+22-40-48 | [INFO] Player:Mozz - currency amount:8000
+22-40-48 | [INFO] Transaction Buy Succeeded:Mozz product:OMNOGloves_Brown quantity:0 health:0 price:40
+22-41-17 | [INFO] InsuranceRequestHandler
+22-41-17 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-41-32 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: MMG_tactical_pouch_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-41-32 | [INFO] Player:Mozz - currency amount:7960
+22-41-32 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_tactical_pouch_ucp quantity:0 health:0 price:500
+22-41-44 | [INFO] InsuranceRequestHandler
+22-41-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-41-52 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Pouches - ClassName: MMG_tactical_pouch_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Sell
+22-41-52 | [INFO] Transaction Sell Succeeded:Mozz product:MMG_tactical_pouch_ucp quantity:0 health:0 price:250
+22-41-57 | [INFO] InsuranceRequestHandler
+22-41-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-42-7 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Sniper Boonie - ClassName: mmg_boonie_ucp - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+22-42-7 | [INFO] Player:Mozz - currency amount:7710
+22-42-7 | [INFO] Transaction Buy Succeeded:Mozz product:mmg_boonie_ucp quantity:0 health:0 price:300
+22-42-11 | [INFO] InsuranceRequestHandler
+22-42-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-42-17 | [INFO] TraderID: 3 - Customer: Mozz - Category: MMG Facemask - ClassName: MMG_facemask_skull - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-42-17 | [INFO] Player:Mozz - currency amount:7410
+22-42-17 | [INFO] Transaction Buy Succeeded:Mozz product:MMG_facemask_skull quantity:0 health:0 price:500
+22-42-36 | [INFO] InsuranceRequestHandler
+22-42-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-42-53 | [INFO] InsuranceRequestHandler
+22-42-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-43-1 | [INFO] InsuranceRequestHandler
+22-43-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-43-4 | [INFO] TraderID: 1 - Customer: Mozz - Category: Assault Rifles - ClassName: MSFC_MSBS - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3500 - CollateralMoney: 0 - TradeMode:Sell
+22-43-4 | [INFO] Transaction Sell Succeeded:Mozz product:MSFC_MSBS quantity:0 health:0 price:3500
+22-43-16 | [INFO] InsuranceRequestHandler
+22-43-16 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-43-19 | [INFO] TraderID: 1 - Customer: Mozz - Category: Buttstocks - ClassName: MSFC_ButtstockCZ805_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 75 - CollateralMoney: 0 - TradeMode:Sell
+22-43-19 | [INFO] Transaction Sell Succeeded:Mozz product:MSFC_ButtstockCZ805_Black quantity:0 health:0 price:75
+22-43-22 | [INFO] TraderID: 1 - Customer: Mozz - Category: Flashlights - ClassName: UniversalLight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+22-43-22 | [INFO] Transaction Sell Succeeded:Mozz product:UniversalLight quantity:0 health:0 price:60
+22-43-25 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: Mag_CMAG_30Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 110 - CollateralMoney: 0 - TradeMode:Sell
+22-43-25 | [INFO] Transaction Sell Succeeded:Mozz product:Mag_CMAG_30Rnd quantity:0 health:0 price:110
+22-43-31 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_556x45 - Quantity: 6 - Multiplier: 6 - MaxStock: -1 - Health: 0 - Price: 18 - CollateralMoney: 0 - TradeMode:Sell
+22-43-31 | [INFO] Transaction Sell Succeeded:Mozz product:Ammo_556x45 quantity:36 health:0 price:18
+22-43-33 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_556x45 - Quantity: 1 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 3 - CollateralMoney: 0 - TradeMode:Sell
+22-43-33 | [INFO] Transaction Sell Succeeded:Mozz product:Ammo_556x45 quantity:1 health:0 price:3
+22-43-36 | [INFO] TraderID: 1 - Customer: Mozz - Category: Supressors - ClassName: MSFC_DHG_M4_Suppressor_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 125 - CollateralMoney: 0 - TradeMode:Sell
+22-43-37 | [INFO] Transaction Sell Succeeded:Mozz product:MSFC_DHG_M4_Suppressor_Black quantity:0 health:0 price:125
+22-43-39 | [INFO] TraderID: 1 - Customer: Mozz - Category: Optics - ClassName: M4_T3NRDSOptic - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Sell
+22-43-39 | [INFO] Transaction Sell Succeeded:Mozz product:M4_T3NRDSOptic quantity:0 health:0 price:200
+22-44-32 | [INFO] TraderID: 1 - Customer: Mozz - Category: Assault Rifles - ClassName: MSFC_AK_ALFA_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Buy
+22-44-32 | [INFO] Player:Mozz - currency amount:11001
+22-44-32 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_AK_ALFA_Black quantity:0 health:0 price:5000
+22-44-45 | [INFO] InsuranceRequestHandler
+22-44-45 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-44-49 | [INFO] TraderID: 1 - Customer: Mozz - Category: Assault Rifles - ClassName: MSFC_AK_ALFA_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2500 - CollateralMoney: 0 - TradeMode:Sell
+22-44-49 | [INFO] Transaction Sell Succeeded:Mozz product:MSFC_AK_ALFA_Black quantity:0 health:0 price:2500
+22-45-4 | [INFO] TraderID: 1 - Customer: Mozz - Category: Assault Rifles - ClassName: MSFC_AK15MR - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 5000 - CollateralMoney: 0 - TradeMode:Buy
+22-45-4 | [INFO] Player:Mozz - currency amount:8501
+22-45-4 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_AK15MR quantity:0 health:0 price:5000
+22-45-12 | [INFO] InsuranceRequestHandler
+22-45-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-45-22 | [INFO] InsuranceRequestHandler
+22-45-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-45-42 | [INFO] TraderID: 1 - Customer: Mozz - Category: Handguards - ClassName: MSFC_Handguard_AK12MR - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+22-45-42 | [INFO] Player:Mozz - currency amount:3501
+22-45-42 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_Handguard_AK12MR quantity:0 health:0 price:200
+22-45-53 | [INFO] InsuranceRequestHandler
+22-45-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-46-2 | [INFO] TraderID: 1 - Customer: Mozz - Category: Buttstocks - ClassName: MSFC_ButtstockAK12MR - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 150 - CollateralMoney: 0 - TradeMode:Buy
+22-46-2 | [INFO] Player:Mozz - currency amount:3301
+22-46-2 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_ButtstockAK12MR quantity:0 health:0 price:150
+22-46-19 | [INFO] InsuranceRequestHandler
+22-46-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-46-27 | [INFO] InsuranceRequestHandler
+22-46-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-46-37 | [INFO] TraderID: 1 - Customer: Mozz - Category: Optics - ClassName: MSFC_Optic_EOtech_XPS20 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-46-37 | [INFO] Player:Mozz - currency amount:3151
+22-46-37 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_Optic_EOtech_XPS20 quantity:0 health:0 price:250
+22-46-45 | [INFO] TraderID: 1 - Customer: Mozz - Category: Supressors - ClassName: MSFC_PBS4_AK_Suppressor_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-46-45 | [INFO] Player:Mozz - currency amount:2901
+22-46-45 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_PBS4_AK_Suppressor_Black quantity:0 health:0 price:250
+22-47-0 | [INFO] InsuranceRequestHandler
+22-47-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-47-6 | [INFO] TraderID: 1 - Customer: Mozz - Category: Flashlights - ClassName: Universallight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Buy
+22-47-6 | [INFO] Player:Mozz - currency amount:2651
+22-47-6 | [INFO] Transaction Buy Succeeded:Mozz product:Universallight quantity:0 health:0 price:120
+22-47-22 | [INFO] InsuranceRequestHandler
+22-47-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-47-45 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: MSFC_AK15MR_30RND - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-47-45 | [INFO] Player:Mozz - currency amount:2531
+22-47-45 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_AK15MR_30RND quantity:0 health:0 price:250
+22-47-47 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: MSFC_AK15MR_30RND - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-47-47 | [INFO] Player:Mozz - currency amount:2281
+22-47-47 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_AK15MR_30RND quantity:0 health:0 price:250
+22-47-49 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: MSFC_AK15MR_30RND - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-47-49 | [INFO] Player:Mozz - currency amount:2031
+22-47-49 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_AK15MR_30RND quantity:0 health:0 price:250
+22-47-51 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: MSFC_AK15MR_30RND - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-47-51 | [INFO] Player:Mozz - currency amount:1781
+22-47-51 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_AK15MR_30RND quantity:0 health:0 price:250
+22-48-19 | [INFO] InsuranceRequestHandler
+22-48-19 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-48-32 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_762x39 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-48-32 | [INFO] Player:Mozz - currency amount:1531
+22-48-32 | [INFO] Transaction Buy Succeeded:Mozz product:Ammo_762x39 quantity:2500 health:0 price:250
+22-48-37 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_762x39 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-48-37 | [INFO] Player:Mozz - currency amount:1281
+22-48-37 | [INFO] Transaction Buy Succeeded:Mozz product:Ammo_762x39 quantity:2500 health:0 price:250
+22-48-41 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_762x39 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-48-41 | [INFO] Player:Mozz - currency amount:1031
+22-48-42 | [INFO] Transaction Buy Succeeded:Mozz product:Ammo_762x39 quantity:2500 health:0 price:250
+22-48-45 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_762x39 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-48-45 | [INFO] Player:Mozz - currency amount:781
+22-48-45 | [INFO] Transaction Buy Succeeded:Mozz product:Ammo_762x39 quantity:2500 health:0 price:250
+22-49-21 | [INFO] InsuranceRequestHandler
+22-49-21 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-49-29 | [INFO] TraderID: 1 - Customer: Mozz - Category: Melee - ClassName: MSFC_CombatKnife - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 400 - CollateralMoney: 0 - TradeMode:Buy
+22-49-29 | [INFO] Player:Mozz - currency amount:531
+22-49-29 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_CombatKnife quantity:0 health:0 price:400
+22-49-57 | [INFO] InsuranceRequestHandler
+22-49-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-50-5 | [INFO] TraderID: 1 - Customer: Mozz - Category: Melee - ClassName: MSFC_DownrangeTomahawk_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 500 - CollateralMoney: 0 - TradeMode:Buy
+22-50-5 | [INFO] Player:Mozz - currency amount:300131
+22-50-5 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_DownrangeTomahawk_Black quantity:0 health:0 price:500
+22-50-55 | [INFO] InsuranceRequestHandler
+22-50-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-51-8 | [INFO] TraderID: 1 - Customer: Mozz - Category: Sidearms - ClassName: Glock19 - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+22-51-8 | [INFO] Player:Mozz - currency amount:299631
+22-51-8 | [INFO] Transaction Buy Succeeded:Mozz product:Glock19 quantity:0 health:0 price:300
+22-51-34 | [INFO] InsuranceRequestHandler
+22-51-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-51-39 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: Mag_Glock_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 40 - CollateralMoney: 0 - TradeMode:Buy
+22-51-39 | [INFO] Player:Mozz - currency amount:299331
+22-51-39 | [INFO] Transaction Buy Succeeded:Mozz product:Mag_Glock_15Rnd quantity:0 health:0 price:40
+22-51-42 | [INFO] TraderID: 1 - Customer: Mozz - Category: Magazines - ClassName: Mag_Glock_15Rnd - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 40 - CollateralMoney: 0 - TradeMode:Buy
+22-51-42 | [INFO] Player:Mozz - currency amount:299291
+22-51-42 | [INFO] Transaction Buy Succeeded:Mozz product:Mag_Glock_15Rnd quantity:0 health:0 price:40
+22-51-47 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_9x19 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 50 - CollateralMoney: 0 - TradeMode:Buy
+22-51-47 | [INFO] Player:Mozz - currency amount:299251
+22-51-47 | [INFO] Transaction Buy Succeeded:Mozz product:Ammo_9x19 quantity:2500 health:0 price:50
+22-51-50 | [INFO] TraderID: 1 - Customer: Mozz - Category: Ammunition - ClassName: Ammo_9x19 - Quantity: 50 - Multiplier: 50 - MaxStock: -1 - Health: 0 - Price: 50 - CollateralMoney: 0 - TradeMode:Buy
+22-51-50 | [INFO] Player:Mozz - currency amount:299201
+22-51-50 | [INFO] Transaction Buy Succeeded:Mozz product:Ammo_9x19 quantity:2500 health:0 price:50
+22-52-8 | [INFO] InsuranceRequestHandler
+22-52-8 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-52-16 | [INFO] TraderID: 1 - Customer: Mozz - Category: Flashlights - ClassName: Universallight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Buy
+22-52-16 | [INFO] Player:Mozz - currency amount:299151
+22-52-16 | [INFO] Transaction Buy Succeeded:Mozz product:Universallight quantity:0 health:0 price:120
+22-52-22 | [INFO] InsuranceRequestHandler
+22-52-22 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-52-26 | [INFO] TraderID: 1 - Customer: Mozz - Category: Flashlights - ClassName: UniversalLight - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Sell
+22-52-26 | [INFO] Transaction Sell Succeeded:Mozz product:UniversalLight quantity:0 health:0 price:60
+22-52-29 | [INFO] InsuranceRequestHandler
+22-52-29 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-52-45 | [INFO] TraderID: 1 - Customer: Mozz - Category: Supressors - ClassName: MSFC_RO_Pistol_Suppressor_Black - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 250 - CollateralMoney: 0 - TradeMode:Buy
+22-52-45 | [INFO] Player:Mozz - currency amount:299091
+22-52-45 | [INFO] Transaction Buy Succeeded:Mozz product:MSFC_RO_Pistol_Suppressor_Black quantity:0 health:0 price:250
+22-54-2 | [INFO] InsuranceRequestHandler
+22-54-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-54-11 | [INFO] TraderID: 0 - Customer: Mozz - Category: Packaged Food - ClassName: PowderedMilk - Quantity: 200 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Buy
+22-54-11 | [INFO] Player:Mozz - currency amount:298841
+22-54-11 | [INFO] Transaction Buy Succeeded:Mozz product:PowderedMilk quantity:200 health:0 price:1
+22-54-12 | [INFO] TraderID: 0 - Customer: Mozz - Category: Packaged Food - ClassName: PowderedMilk - Quantity: 200 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1 - CollateralMoney: 0 - TradeMode:Buy
+22-54-12 | [INFO] Player:Mozz - currency amount:298840
+22-54-12 | [INFO] Transaction Buy Succeeded:Mozz product:PowderedMilk quantity:200 health:0 price:1
+22-55-55 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-55-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-56-3 | [INFO] InsuranceRequestHandler
+22-56-3 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-56-11 | [INFO] InsuranceRequestHandler
+22-56-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-56-20 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicles - ClassName: CrSk_Land_Rover_Defender_110_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 50000 - CollateralMoney: 0 - TradeMode:Buy
+22-56-20 | [INFO] Player:Mozz - currency amount:301777
+22-56-20 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-56-20 | [INFO] Transaction Buy Succeeded:Mozz product:CrSk_Land_Rover_Defender_110_Green quantity:0 health:0 price:50000
+22-57-9 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-57-11 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-57-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-57-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\5481418\1687035380.json
+22-57-23 | [INFO] InsuranceRequestHandler
+22-57-23 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-57-27 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: SparkPlug - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 60 - CollateralMoney: 0 - TradeMode:Buy
+22-57-27 | [INFO] Player:Mozz - currency amount:251677
+22-57-27 | [INFO] Transaction Buy Succeeded:Mozz product:SparkPlug quantity:0 health:0 price:60
+22-57-29 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: CarBattery - Quantity: 50 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 100 - CollateralMoney: 0 - TradeMode:Buy
+22-57-29 | [INFO] Player:Mozz - currency amount:251617
+22-57-29 | [INFO] Transaction Buy Succeeded:Mozz product:CarBattery quantity:50 health:0 price:100
+22-57-31 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: CarRadiator - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 200 - CollateralMoney: 0 - TradeMode:Buy
+22-57-31 | [INFO] Player:Mozz - currency amount:251517
+22-57-31 | [INFO] Transaction Buy Succeeded:Mozz product:CarRadiator quantity:0 health:0 price:200
+22-58-44 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-58-53 | [INFO] InsuranceRequestHandler
+22-58-53 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-59-12 | [INFO] InsuranceRequestHandler
+22-59-12 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+22-59-19 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_kapot_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+22-59-19 | [INFO] Player:Mozz - currency amount:251317
+22-59-19 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_kapot_Green quantity:0 health:0 price:600
+22-59-20 | [INFO] GetEntitiesCleanUp
+23-0-2 | [INFO] InsuranceRequestHandler
+23-0-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-0-9 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: HeadlightH7_Box - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 30 - CollateralMoney: 0 - TradeMode:Buy
+23-0-9 | [INFO] Player:Mozz - currency amount:250717
+23-0-9 | [INFO] Transaction Buy Succeeded:Mozz product:HeadlightH7_Box quantity:0 health:0 price:30
+23-0-11 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: HeadlightH7_Box - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 30 - CollateralMoney: 0 - TradeMode:Buy
+23-0-11 | [INFO] Player:Mozz - currency amount:250687
+23-0-11 | [INFO] Transaction Buy Succeeded:Mozz product:HeadlightH7_Box quantity:0 health:0 price:30
+23-0-23 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_koleso - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-0-23 | [INFO] Player:Mozz - currency amount:250657
+23-0-23 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_koleso quantity:0 health:0 price:600
+23-0-27 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_koleso - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-0-27 | [INFO] Player:Mozz - currency amount:250057
+23-0-27 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_koleso quantity:0 health:0 price:600
+23-0-56 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-0-59 | [INFO] InsuranceRequestHandler
+23-0-59 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-1-8 | [INFO] TraderID: 2 - Customer: Mozz - Category: Hardware Supplies - ClassName: Barrel_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Buy
+23-1-8 | [INFO] Player:Mozz - currency amount:249457
+23-1-8 | [INFO] Transaction Buy Succeeded:Mozz product:Barrel_Green quantity:0 health:0 price:1500
+23-1-27 | [INFO] InsuranceRequestHandler
+23-1-27 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-1-40 | [INFO] TraderID: 2 - Customer: Mozz - Category: Hardware Supplies - ClassName: CanisterGasoline - Quantity: 20000 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 300 - CollateralMoney: 0 - TradeMode:Buy
+23-1-40 | [INFO] Player:Mozz - currency amount:247957
+23-1-40 | [INFO] Transaction Buy Succeeded:Mozz product:CanisterGasoline quantity:20000 health:0 price:300
+23-1-57 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-2-2 | [INFO] InsuranceRequestHandler
+23-2-2 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-2-10 | [INFO] TraderID: 2 - Customer: Mozz - Category: Hardware Supplies - ClassName: SeaChest - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 2000 - CollateralMoney: 0 - TradeMode:Buy
+23-2-10 | [INFO] Player:Mozz - currency amount:247657
+23-2-10 | [INFO] Transaction Buy Succeeded:Mozz product:SeaChest quantity:0 health:0 price:2000
+23-2-34 | [INFO] InsuranceRequestHandler
+23-2-34 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-2-42 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_koleso - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-2-42 | [INFO] Player:Mozz - currency amount:245657
+23-2-42 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_koleso quantity:0 health:0 price:600
+23-2-47 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_koleso - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-2-47 | [INFO] Player:Mozz - currency amount:245057
+23-2-47 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_koleso quantity:0 health:0 price:600
+23-6-1 | [INFO] InsuranceRequestHandler
+23-6-1 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-6-13 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_bagazhnik_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-6-13 | [INFO] Player:Mozz - currency amount:244457
+23-6-13 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_bagazhnik_Green quantity:0 health:0 price:600
+23-6-19 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_koleso - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-6-19 | [INFO] Player:Mozz - currency amount:243857
+23-6-19 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_koleso quantity:0 health:0 price:600
+23-7-0 | [INFO] InsuranceRequestHandler
+23-7-0 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-7-3 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_koleso - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 120 - CollateralMoney: 0 - TradeMode:Sell
+23-7-3 | [INFO] Transaction Sell Succeeded:Mozz product:Defender110_koleso quantity:0 health:0 price:120
+23-7-10 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_dver_2_2_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-7-10 | [INFO] Player:Mozz - currency amount:243377
+23-7-11 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_dver_2_2_Green quantity:0 health:0 price:600
+23-7-48 | [INFO] InsuranceRequestHandler
+23-7-48 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-7-58 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_dver_1_2_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-7-58 | [INFO] Player:Mozz - currency amount:242777
+23-7-58 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_dver_1_2_Green quantity:0 health:0 price:600
+23-9-13 | [INFO] InsuranceRequestHandler
+23-9-13 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-9-23 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_dver_2_1_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-9-23 | [INFO] Player:Mozz - currency amount:242177
+23-9-23 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_dver_2_1_Green quantity:0 health:0 price:600
+23-9-38 | [INFO] InsuranceRequestHandler
+23-9-38 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-9-45 | [INFO] TraderID: 4 - Customer: Mozz - Category: Vehicle Parts - ClassName: Defender110_dver_1_1_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 600 - CollateralMoney: 0 - TradeMode:Buy
+23-9-45 | [INFO] Player:Mozz - currency amount:241577
+23-9-45 | [INFO] Transaction Buy Succeeded:Mozz product:Defender110_dver_1_1_Green quantity:0 health:0 price:600
+23-10-54 | [INFO] InsuranceRequestHandler
+23-10-54 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-11-5 | [INFO] TraderID: 2 - Customer: Mozz - Category: Hardware Supplies - ClassName: Barrel_Green - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 1500 - CollateralMoney: 0 - TradeMode:Buy
+23-11-5 | [INFO] Player:Mozz - currency amount:240977
+23-11-5 | [INFO] Transaction Buy Succeeded:Mozz product:Barrel_Green quantity:0 health:0 price:1500
+23-11-32 | [INFO] InsuranceRequestHandler
+23-11-32 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-11-36 | [INFO] InsuranceRequestHandler
+23-11-36 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-11-39 | [INFO] TraderID: 2 - Customer: Mozz - Category: Cooking & Hunting Supplies - ClassName: Pot - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 25 - CollateralMoney: 0 - TradeMode:Buy
+23-11-39 | [INFO] Player:Mozz - currency amount:239477
+23-11-39 | [INFO] Transaction Buy Succeeded:Mozz product:Pot quantity:0 health:0 price:25
+23-11-41 | [INFO] TraderID: 2 - Customer: Mozz - Category: Cooking & Hunting Supplies - ClassName: Tripod - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 35 - CollateralMoney: 0 - TradeMode:Buy
+23-11-41 | [INFO] Player:Mozz - currency amount:239452
+23-11-41 | [INFO] Transaction Buy Succeeded:Mozz product:Tripod quantity:0 health:0 price:35
+23-12-0 | [INFO] GetEntitiesCleanUp
+23-12-5 | [INFO] InsuranceRequestHandler
+23-12-5 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-16-58 | [INFO] InsuranceRequestHandler
+23-16-58 | [INFO] TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_5481418.json
+23-18-10 | [INFO] GetSafeStatut

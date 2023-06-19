@@ -1,0 +1,14 @@
+{
+    "ExcludeReputationFromCloning": 0,
+    "EnableGainedReputationNotification": 0,
+    "SecureReachedSkill": 0,
+    "SecureStatsWithoutLI": 0.5,
+    "EnablePerkStamina": 1,
+    "EnablePerkCustomDayzSkills": 1,
+    "EnablePerkReputation": 1,
+    "EnablePerkHunting": 1,
+    "EnablePerkRadiationResistance": 1,
+    "EnablePerkToxicResistance": 1,
+    "EnableFatigue": 1,
+    "EnableDiseases": 1
+}
